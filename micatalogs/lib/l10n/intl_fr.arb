@@ -1,0 +1,1949 @@
+{
+  "@@locale" :   "fr" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "FR",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youMustEnterMobileNumber": "Vous devez entrer le numéro de mobile",
+  "@youMustEnterMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeAtleast4Character": "La broche doit comporter au moins 4 caractères",
+  "@pinMustBeAtleast4Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeSame": "La broche doit être la même",
+  "@pinMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinNotMatched": "Pin non apparié",
+  "@pinNotMatched": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameMustBeAtleast3Character": "Le nom doit comporter au moins 3 caractères",
+  "@nameMustBeAtleast3Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "Un problème est survenu",
+  "@somethingWentWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessName": "Nom de l'entreprise",
+  "@businessName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pin": "Épingle",
+  "@pin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "varificationCode": "Code de vérification",
+  "@varificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTypeTheVerificationCodeSentTo": "Veuillez saisir le code de vérification envoyé à",
+  "@plzTypeTheVerificationCodeSentTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontReceiveTheCode": "Vous ne recevez pas le code?",
+  "@dontReceiveTheCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNewPin": "Entrez un nouveau code PIN",
+  "@enterNewPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPin": "Confirmer la broche",
+  "@confirmPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "Prénom",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Nom de famille",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "Pas de téléphone",
+  "@phoneNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Adresse",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "Titre du produit",
+  "@productTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productPrice": "Prix du produit",
+  "@productPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "La description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "Pas de connexion Internet",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTurnOnInternetConnectionAndTryAgain": "Veuillez activer la connexion Internet et réessayer.",
+  "@plzTurnOnInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgain": "Réessayer",
+  "@tryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sessionExpired": "La session a expiré",
+  "@sessionExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourSessionIsExpired": "Votre session a expiré.",
+  "@yourSessionIsExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillBeRedirectedToTheLogin": "Vous serez redirigé vers la connexion.",
+  "@youWillBeRedirectedToTheLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "D'accord",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toAccessThisFunctionality": "Pour accéder à cette fonctionnalité, vous devez acheter des plans.",
+  "@toAccessThisFunctionality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgrade": "Améliorer",
+  "@upgrade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validationError": "Erreur de validation !",
+  "@validationError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitApp": "Quitter l'application?",
+  "@exitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToExitApp": "Voulez-vous vraiment quitter l'application?",
+  "@areYouSureWantToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Non",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Oui",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "Êtes-vous sûr de vouloir vous déconnecter ?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeStatus": "Changer de statut",
+  "@changeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToChangeStatus": "Voulez-vous vraiment changer de statut?",
+  "@areYouSureYouWantToChangeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intructions": "Instructions",
+  "@intructions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeSymbols": "Le nom ne doit pas inclure de symboles comme @ #% ...",
+  "@nameShouldNotIncludeSymbols": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanUseToSaperateWords": "Vous pouvez utiliser - ou _ pour séparer les mots.",
+  "@youCanUseToSaperateWords": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeCapitalLetters": "Le nom ne doit pas inclure de majuscules.",
+  "@nameShouldNotIncludeCapitalLetters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCannotChangeDomainOnceYouCreated": "Vous ne pouvez pas changer de nom de domaine une fois que vous avez créé.",
+  "@youCannotChangeDomainOnceYouCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageNotSelected": "Image non sélectionnée",
+  "@imageNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAtleastOneImage": "Veuillez sélectionner au moins une image",
+  "@plzSelectAtleastOneImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorry": "Désolé !",
+  "@sorry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanNotSelectMoreThanImages": "Vous ne pouvez pas sélectionner plus de 6 images",
+  "@youCanNotSelectMoreThanImages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogNotSelected": "Catalogue non sélectionné",
+  "@catalogNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionAvailable": "Nouvelle version disponible",
+  "@newVersionAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "Mettre à jour",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Politique de confidentialité",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNew": "Quoi de neuf :",
+  "@whatsNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "termes et conditions.",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzAgreeWithTermsAndConditions": "Veuillez accepter les termes et conditions.",
+  "@plzAgreeWithTermsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continu": "Continuer",
+  "@continu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Chargement",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogTitle": "Titre du catalogue",
+  "@catalogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalog": "Sélectionnez le catalogue parent",
+  "@selectParentCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCatalog": "Sélectionnez le catalogue",
+  "@selectCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItMainCatalog": "Make it Main-Catalogue",
+  "@makeItMainCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItSubCatalog": "Sous-catalogue Make it",
+  "@makeItSubCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Créer",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalogFirst": "Sélectionnez d'abord le catalogue parent",
+  "@selectParentCatalogFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCannotBeImpty": "Le champ ne peut pas être vide",
+  "@fieldCannotBeImpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteCatalog": "Confirmer la suppression du catalogue",
+  "@confirmDeleteCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisCatalog": "Voulez-vous vraiment supprimer ce catalogue.",
+  "@areYouSureWantToDeleteThisCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "Confirmer la suppression du produit",
+  "@confirmDeleteProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouWantToSureDeleteThisProduct": "Voulez-vous être sûr de supprimer ce produit.",
+  "@areYouWantToSureDeleteThisProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataFound": "Aucune donnée disponible",
+  "@noDataFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRcode": "Scanner le code QR",
+  "@scanQRcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRgivenIn": "Scannez le QR fourni dans web.micatalogs.com pour accéder au panneau d'administration",
+  "@scanQRgivenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "OU",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuewithGoogle": "Continuer avec Google",
+  "@continuewithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumber": "Entrer un nombre",
+  "@enterNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youNeedToFillDetailsFirst": "Vous devez d'abord remplir les détails",
+  "@youNeedToFillDetailsFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorryThisFeatureIsNotLongerAvailable": "Désolé, cette fonctionnalité n'est plus disponible",
+  "@sorryThisFeatureIsNotLongerAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzContinueWithGoogle": "S'il vous plaît ! Continuez avec google.",
+  "@plzContinueWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidNumber": "Numéro invalide",
+  "@invalidNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPin": "Réinitialiser la broche",
+  "@resetPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendVerificationCode": "Envoyer le code de vérification",
+  "@sendVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontHaveAnAccount": "Vous n'avez pas de compte?",
+  "@dontHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "S'inscrire",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetYourPin": "Oubliez votre épingle? ",
+  "@forgetYourPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "S'identifier",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPinToProceedFurther": "Entrez votre code PIN pour continuer.",
+  "@enterYourPinToProceedFurther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPin": "Entrez le code PIN",
+  "@enterPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidPin": "Veuillez saisir un code PIN valide",
+  "@plzEnterValidPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPin": "Nouvelle épingle",
+  "@newPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongVerificationCode": "Mauvais code de vérification!",
+  "@wrongVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "Renvoyer",
+  "@resend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "Vérifier",
+  "@verify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "domainName": "Nom de domaine",
+  "@domainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessname": "nom de l'entreprise",
+  "@businessname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCategory": "Choisir une catégorie",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourCurrency": "Sélectionnez votre devise",
+  "@selectYourCurrency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectCategory": "Veuillez sélectionner une catégorie",
+  "@plzSelectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappNumber": "Numéro Whatsapp",
+  "@whatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "Ajouter un produit",
+  "@addProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "sauver",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "images": "Images",
+  "@images": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizaAndColor": "Taille et couleur",
+  "@sizaAndColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "basicInfo": "Informations de base",
+  "@basicInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountPrice": "Prix bas",
+  "@discountPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "Couleur",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorNameMustBeSame": "Le nom de la couleur doit être le même",
+  "@colorNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumOrderQty": "Quantité minimum d'achat",
+  "@minimumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumOrderQty": "Quantité de commande maximum",
+  "@maximumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Taille",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizeNameMustBeSame": "Le nom de la taille doit être le même",
+  "@sizeNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stockAvailability": "Disponibilité des stocks",
+  "@stockAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "available": "Disponible",
+  "@available": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "outOfStock": "En rupture de stock",
+  "@outOfStock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableQuantity": "quantité disponible",
+  "@availableQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity": "Quantité",
+  "@quantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setOrderQuantity": "Définir la quantité de commande",
+  "@setOrderQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showOfStockProductToCatalogV": "Afficher le produit en rupture de stock au visiteur du catalogue",
+  "@showOfStockProductToCatalogV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowVisitorsToPlaceAnOrderOn": "Permettez aux visiteurs de passer une commande sur votre produit en rupture de stock",
+  "@allowVisitorsToPlaceAnOrderOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTagOnProduct": "Ajouter une balise sur le produit",
+  "@addTagOnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "Produit en vedette",
+  "@featuredProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProduct": "Nouveau produit",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMinimunAndMaximunQty": "Entrez une quantité de commande minimale et maximale valide.",
+  "@enterValidMinimunAndMaximunQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzPurchasePremiumPlan": "Veuillez acheter un plan premium",
+  "@plzPurchasePremiumPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Éditer",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "Partager",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappShare": "Partage Whatsapp",
+  "@whatsappShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Supprimer",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharePdf": "Partager le PDF",
+  "@sharePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFeatured": "Supprimer la vedette",
+  "@removeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeFeatured": "Faire la vedette",
+  "@makeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogActions": "Actions de catalogue",
+  "@catalogActions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogs": "Catalogues",
+  "@catalogs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Des produits",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Chercher",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchCatalog": "Rechercher dans le catalogue",
+  "@searchCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "Rechercher un produit",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "limitExceed": "Limite dépassée",
+  "@limitExceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featured": "En vedette",
+  "@featured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "Modifier le produit",
+  "@editProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiries": "Demandes",
+  "@inquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryDetails": "Détails de l'enquête",
+  "@inquiryDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "Détails des commandes",
+  "@orderDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPayment": "Paiement total",
+  "@totalPayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "Remarque",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "En attente",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "completed": "Terminé",
+  "@completed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "Annulé",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orders": "Ordres",
+  "@orders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessDetails": "Détails de l'entreprise",
+  "@businessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customDomain": "Domaine personnalisé",
+  "@customDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraNote": "Note supplémentaire",
+  "@extraNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Détails",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDomain": "Définir le domaine",
+  "@setDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseYearlyPlan": "Si vous achetez un forfait annuel. vous pouvez définir un domaine personnalisé dans",
+  "@ifYouWillPurchaseYearlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "free": " Libre.",
+  "@free": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseMonthlyPlan": "Si vous achetez un forfait mensuel, vous devez payer un supplément",
+  "@ifYouWillPurchaseMonthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editDetails": "Modifier les détails",
+  "@editDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessTagLine": "Slogan de l'entreprise",
+  "@businessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessTagLine": "Show business Slogan.",
+  "@showBusinessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "Numéro de compte",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifscCode": "Code IFSC",
+  "@ifscCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gstinNumber": "Numéro GSTIN",
+  "@gstinNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "Nom de banque",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAddress": "adresse de la banque",
+  "@bankAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideBankDetailsFromCheckoutPage": "Masquer les coordonnées bancaires de la page de paiement",
+  "@hideBankDetailsFromCheckoutPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessLogoInsteadOfName": "Afficher le logo de l'entreprise au lieu du nom.",
+  "@showBusinessLogoInsteadOfName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessEmail": "Courriel professionnel",
+  "@businessEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessAddress": "Adresse d'affaires",
+  "@businessAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "Editer le profil",
+  "@editProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchase": "achat",
+  "@purchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentSuccessful": "Paiement réussi",
+  "@paymentSuccessful": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planHistory": "Historique du plan",
+  "@planHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plans": "Abonnements",
+  "@plans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseCatalogAndProduct": "Augmentez le stockage du catalogue et des produits et obtenez plus de fonctionnalités en achetant des plans.",
+  "@increaseCatalogAndProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "features": "Caractéristiques",
+  "@features": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "Choisi",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Paramètres",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profil",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Langages",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgradeYourPlan": "Améliorez votre plan",
+  "@upgradeYourPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "Soutien",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Se déconnecter",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullUpLoad": "tirer la charge",
+  "@pullUpLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadFailedClickRetry": "Échec du chargement! Cliquez sur Réessayer!",
+  "@loadFailedClickRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "releaseToLoadMore": "relâchez pour charger plus",
+  "@releaseToLoadMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreData": "Plus de données",
+  "@noMoreData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCount": "Nombre de commandes",
+  "@orderCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryCount": "Nombre de demandes",
+  "@inquiryCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webAdmin": "Administrateur Web",
+  "@webAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "Mon magasin",
+  "@myStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyUrl": "Copier le lien",
+  "@copyUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeUrlCopied": "URL du magasin copiée.",
+  "@storeUrlCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAtleastOneCatalog": "Créer au moins un catalogue",
+  "@createAtleastOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareStore": "Partager le magasin",
+  "@shareStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preview": "Aperçu",
+  "@preview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentDetails": "Détails de paiement",
+  "@paymentDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "Nom de la compagnie",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currency": "Devise",
+  "@currency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "choisissez votre langue",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Erreur",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAnyOneCatalog": "Veuillez sélectionner un catalogue",
+  "@plzSelectAnyOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidMobileNumber": "Veuillez saisir un numéro de mobile valide",
+  "@plzEnterValidMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "Entrez une adresse email valide",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzFillTheFollowingDetails": "Veuillez remplir les détails suivants",
+  "@plzFillTheFollowingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidWhatsappNumber": "Entrez un numéro Whatsapp valide",
+  "@enterValidWhatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itIncludesSpecialCharacters": "Il comprend des caractères spéciaux",
+  "@itIncludesSpecialCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egSmall": "par exemple: petit",
+  "@egSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egRed": "par exemple: rouge",
+  "@egRed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidQuantity": "Entrez une quantité valide",
+  "@enterValidQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDomainName": "Entrez un nom de domaine valide.",
+  "@enterValidDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tagLineMaxIn20Characters": "Texte de la ligne de repère de 20 caractères maximum.",
+  "@tagLineMaxIn20Characters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Catégorie",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditProfileDetails": "Afficher et modifier les détails de votre profil",
+  "@showAndEditProfileDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditBusinessDetails": "Afficher et modifier les détails de votre entreprise",
+  "@showAndEditBusinessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptions": "Abonnements",
+  "@subscriptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeOurPremiumPlanToGet": "Abonnez-vous à notre plan premium pour obtenir plus de fonctionnalités",
+  "@subscribeOurPremiumPlanToGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Langages",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableInSixLanguages": "Disponible en plusieurs langues",
+  "@availableInSixLanguages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "Mode de paiement",
+  "@paymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPaymentMethodsForYourShop": "Définissez les modes de paiement pour votre boutique",
+  "@setPaymentMethodsForYourShop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setYourOwnDomainName": "Définissez votre propre nom de domaine",
+  "@setYourOwnDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInstantSupportFromTeam": "Obtenez une assistance instantanée de l'équipe MiCatalogs",
+  "@getInstantSupportFromTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutYourAcc": "Déconnectez votre compte",
+  "@logoutYourAcc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "méthodes de payement",
+  "@paymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPaymentMethods": "Sélectionnez le mode de paiement",
+  "@selectPaymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cod": "Paiement à la livraison",
+  "@cod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active": "Actif",
+  "@active": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deactive": "Désactiver",
+  "@deactive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisMethod": "Voulez-vous vraiment supprimer cette méthode?",
+  "@areYouSureWantToDeleteThisMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectPaymentMethod": "Veuillez sélectionner le mode de paiement",
+  "@plzSelectPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentKeys": "Clés de paiement",
+  "@paymentKeys": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourPaymentMethod": "Sélectionnez votre méthode de paiement",
+  "@selectYourPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicKey": "Clé publique",
+  "@publicKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privateKey": "Clé privée",
+  "@privateKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendRequest": "Envoyer une demande",
+  "@sendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted": "Accepté",
+  "@accepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packingAndShippingOptinal": "Emballage et expédition (facultatif)",
+  "@packingAndShippingOptinal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimatedDeliveryDate": "Date de livraison estimée",
+  "@estimatedDeliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "Sélectionner une date",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Terminé",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeReason": "Ecrire la raison",
+  "@writeReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inProcess": "En cours",
+  "@inProcess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingDetails": "Les détails d'expédition",
+  "@shippingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTrackingLink": "Lien de suivi de commande",
+  "@orderTrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entertrackingLink": "Entrez le lien de suivi",
+  "@entertrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCancellationReason": "Motif de l'annulation de la commande",
+  "@orderCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLink": "Entrez un lien valide",
+  "@enterValidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "Choisissez le pays",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectState": "Sélectionnez l'état",
+  "@selectState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCity": "Sélectionnez une ville",
+  "@selectCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webStoreLang": "Langue de la boutique Web",
+  "@webStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectStoreLang": "Sélectionnez la langue du magasin",
+  "@selectStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customers": "Les clients",
+  "@customers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingTime": "Temps restant",
+  "@remainingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "Journées",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPlan": "Plan actuel",
+  "@currentPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planExtension": "Extension du plan",
+  "@planExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "convertYourplanMonthlyToYearly": "Convertissez votre plan mensuel en abonnement annuel",
+  "@convertYourplanMonthlyToYearly": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewUsOnPlayStore": "Donnez votre avis sur le Play Store",
+  "@reviewUsOnPlayStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Date d'expiration",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeNow": "Abonnez-vous maintenant",
+  "@subscribeNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateAndReview": "Noter et revoir",
+  "@rateAndReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteInquiries": "Supprimer les demandes",
+  "@deleteInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisInquiries": "Voulez-vous vraiment supprimer ces demandes?",
+  "@areYouSureWantToDeleteThisInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manufacturer": "Fabricant",
+  "@manufacturer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wholesaler": "Grossiste",
+  "@wholesaler": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distributor": "Distributeur",
+  "@distributor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exporter": "Exportateur",
+  "@exporter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reseller": "Revendeur",
+  "@reseller": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agent": "Agent",
+  "@agent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referAndEarn": "Référer et gagner",
+  "@referAndEarn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referYourFriendsAndEarnExtraRewards": "Parrainez vos amis et gagnez des récompenses supplémentaires.",
+  "@referYourFriendsAndEarnExtraRewards": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareYourReferralCodeWithYourFriends": "Partagez votre code de parrainage avec vos amis.",
+  "@shareYourReferralCodeWithYourFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referralCode": "Code de Parrainage:",
+  "@referralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyCopied": "Copié avec succès",
+  "@successfullyCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareWithWhatsapp": "Partager avec Whatsapp",
+  "@shareWithWhatsapp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referOneYearlySubscriptionAnd": "Référez-vous 1 abonnement annuel et obtenez une prolongation de 3 mois.",
+  "@referOneYearlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referThreeMonthlySubscriptionAnd": "Reportez-vous à 3 abonnements mensuels et bénéficiez d'une extension d'un mois.",
+  "@referThreeMonthlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerWithReferralCodeAnd": "Inscrivez-vous avec le code de parrainage et obtenez 2 mois supplémentaires sur l'abonnement annuel.",
+  "@registerWithReferralCodeAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouHaveAnyReferralCode?": "Avez-vous un code de référence?",
+  "@doYouHaveAnyReferralCode?": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterReferralCode": "Entrez le code de parrainage",
+  "@enterReferralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeBanners": "Bannières de magasin",
+  "@storeBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditYourStoreBanners": "Affichez et modifiez les bannières de votre boutique",
+  "@showAndEditYourStoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigationLink": "Lien de navigation",
+  "@navigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCantUploadMoreBanners": "Vous ne pouvez pas télécharger plus de bannières",
+  "@youCantUploadMoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editBanner": "Modifier la bannière",
+  "@editBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteBanner": "Supprimer la bannière",
+  "@deleteBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerRemoveMsg": "Voulez-vous vraiment supprimer cette bannière de votre boutique en ligne",
+  "@bannerRemoveMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addImage": "Ajouter une image",
+  "@addImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addBanner": "Ajouter une bannière",
+  "@addBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterBannerNavigationLink": "Entrez le lien de navigation de la bannière",
+  "@enterBannerNavigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectTheBannerImage": "Veuillez sélectionner l'image de la bannière",
+  "@plzSelectTheBannerImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trial": "Procès",
+  "@trial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "premium": "Prime",
+  "@premium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotAvailable": "Email non disponible",
+  "@emailNotAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkOutMyStore": "Découvrez ma boutique",
+  "@checkOutMyStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerSizeMustBeInpx": "La taille de votre bannière doit être de 1 920 x 500 pixels.",
+  "@bannerSizeMustBeInpx": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createMenu": "Créer un menu",
+  "@createMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourCuisineTypes": "Entrez vos types de cuisine",
+  "@enterYourCuisineTypes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exSouthIndianEtc": "Par exemple. Indien, etc.",
+  "@exSouthIndianEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourDishName": "Entrez le nom de votre plat",
+  "@enterYourDishName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exMasalaDhosaEtc": "Par exemple. Masala Dhosa, etc.",
+  "@exMasalaDhosaEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDishDescription": "Par exemple. Masala Dhosa, etc.",
+  "@enterDishDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPrice": "Entrez le prix",
+  "@enterPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs200etc": "Par exemple. Rs220, etc.",
+  "@exRs200etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountedPrice": "Prix réduit",
+  "@discountedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs199etc": "Par exemple. Rs199, etc.",
+  "@exRs199etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createTags": "Créer des balises",
+  "@createTags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTagName": "Entrez le nom de la balise",
+  "@enterTagName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addRestaurant": "Ajouter un restaurant",
+  "@addRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLogo": "Ajouter un logo",
+  "@addLogo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereIsYourRestaurant": "Où est votre restaurant?",
+  "@whereIsYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourAddress": "Entrez votre adresse",
+  "@enterYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whichTypeOfRestaurant": "Quel type de restaurant?",
+  "@whichTypeOfRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegetarian": "Végétarien",
+  "@vegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nonVegetarian": "Non végétarien",
+  "@nonVegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "both": "Tous les deux",
+  "@both": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "SUIVANT",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "Changement d'adresse",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterRestaurantAddress": "Entrez l'adresse du restaurant",
+  "@enterRestaurantAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityName": "Nom de la localité",
+  "@localityName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidAddressField": "Entrez un champ d'adresse valide",
+  "@enterValidAddressField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLocalityField": "Entrez un champ de localité valide",
+  "@enterValidLocalityField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDishes": "Tous les plats",
+  "@allDishes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDish": "Ajouter un plat",
+  "@addDish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "OFF",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availability": "Disponibilité",
+  "@availability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inWhichDaysWillYourRestaurantContinue": "Dans quels jours votre restaurant continuera-t-il?",
+  "@inWhichDaysWillYourRestaurantContinue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDays": "Tous les jours",
+  "@allDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDays": "Sélectionnez les jours",
+  "@selectDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setTimeSlot": "Définir le créneau horaire",
+  "@setTimeSlot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumDistanceForFoodDelivery": "Distance maximale pour la livraison de nourriture",
+  "@maximumDistanceForFoodDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocation": "Localisation actuelle",
+  "@currentLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDeliveryMode": "Sélectionnez le mode de livraison",
+  "@selectDeliveryMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpByYourself": "Ramassez par vous-même",
+  "@pickUpByYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryByRestaurant": "Livraison par restaurant",
+  "@deliveryByRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnableYourLocation": "Veuillez activer votre emplacement",
+  "@pleaseEnableYourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createYourOnlineStore": "Créez votre boutique en ligne",
+  "@createYourOnlineStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "Restaurant",
+  "@restaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "Tout",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startTime": "Heure de début",
+  "@startTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "endTime": "Heure de fin",
+  "@endTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeMustBeSame": "L'heure doit être la même",
+  "@timeMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTime": "Entrez une heure valide",
+  "@enterValidTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "open24hours": "Ouvert 24 heures",
+  "@open24hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setLocation": "Définir l'emplacement",
+  "@setLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourLocation": "Votre emplacement",
+  "@yourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityNotFound": "Localité introuvable",
+  "@localityNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "CHANGEMENT",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressNotFound": "Adresse introuvable",
+  "@addressNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectYourAddress": "Veuillez sélectionner votre adresse",
+  "@pleaseSelectYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLocation": "Confirmer l'emplacement",
+  "@confirmLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "storeDeliveryCharge": "Frais de livraison en magasin",
+  "@storeDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "freeDelivery": "Livraison gratuite",
+  "@freeDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "addDeliveryCharge": "Ajouter des frais de livraison",
+  "@addDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "enterDeliveryCharge": "Entrez les frais de livraison",
+  "@enterDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "restaurantAvailability": "Disponibilité du restaurant",
+  "@restaurantAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "availabilityOfYourRestaurant": "Disponibilité de votre restaurant",
+  "@availabilityOfYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unlimited": "Illimité",
+  "@unlimited": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "freee": "Libre",
+  "@freee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge": "Frais de port",
+  "@shippingCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge2": "FRAIS DE PORT",
+  "@shippingCharge2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoice": "FACTURE D'ACHAT",
+  "@invoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "DATE",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderNo": "N ° DE COMMANDE.",
+  "@orderNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address2": "ADRESSE",
+  "@address2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name2": "NOM",
+  "@name2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email2": "EMAIL",
+  "@email2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "NUMÉRO DE TÉLÉPHONE",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "SOUS TOTAL",
+  "@subTotal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "MONTANT TOTAL",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCompleted": "Marquer comme terminé",
+  "@markAsCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCancelled": "Marquer comme annulé",
+  "@markAsCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsPending": "Marquer comme en attente",
+  "@markAsPending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "NOM DU PRODUIT",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity2": "QUANTITÉ",
+  "@quantity2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPrice": "PRIX TOTAL",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPixelId": "Saisissez un identifiant de pixel valide",
+  "@enterValidPixelId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "analytics": "Analytique",
+  "@analytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceboolPixelAndGoogleAnalytics": "Pixel Facebook et Google Analytics",
+  "@faceboolPixelAndGoogleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookPixel": "Pixel Facebook",
+  "@facebookPixel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKeyId": "Entrez l'ID de la clé",
+  "@enterKeyId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getHelp": "Obtenir de l'aide ?",
+  "@getHelp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleAnalytics": "Google Analytics",
+  "@googleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTrackingId": "Entrez l'ID de suivi",
+  "@enterTrackingId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trialplan": "Procès",
+  "@trialplan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monthlyPlan": "Mensuel",
+  "@monthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyplan": "Annuel",
+  "@yearlyplan": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

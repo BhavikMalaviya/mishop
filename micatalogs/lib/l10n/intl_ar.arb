@@ -1,0 +1,1950 @@
+{
+  "@@locale" :   "ar" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "AR",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youMustEnterMobileNumber": "يجب عليك إدخال رقم الهاتف المحمول",
+  "@youMustEnterMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeAtleast4Character": "يجب أن يتكون رقم التعريف الشخصي من 4 أحرف",
+  "@pinMustBeAtleast4Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeSame": "الدبابيس هي نفسها",
+  "@pinMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinNotMatched": "رقم التعريف الشخصي غير مطابق",
+  "@pinNotMatched": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameMustBeAtleast3Character": "يجب ألا يقل الاسم عن 3 أحرف",
+  "@nameMustBeAtleast3Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "هناك شئ غير صحيح",
+  "@somethingWentWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessName": "الاسم التجاري",
+  "@businessName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pin": "دبوس",
+  "@pin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "varificationCode": "شيفرة التأكيد",
+  "@varificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTypeTheVerificationCodeSentTo": "يرجى كتابة رمز التحقق المرسل",
+  "@plzTypeTheVerificationCodeSentTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontReceiveTheCode": "لا تتلقى الرمز",
+  "@dontReceiveTheCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNewPin": "أدخل رقم التعريف الشخصي الجديد",
+  "@enterNewPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "confirmPin": "تأكيد PIN",
+  "@confirmPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "الاسم الاول",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "الكنية",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "رقم الهاتف",
+  "@phoneNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "أعرف",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "عنوان المنتج",
+  "@productTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productPrice": "سعر المنتج",
+  "@productPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "وصف",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "لا يوجد اتصال بالإنترنت",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTurnOnInternetConnectionAndTryAgain": "يرجى تشغيل اتصال الإنترنت والمحاولة مرة أخرى.",
+  "@plzTurnOnInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgain": "حاول مجددا",
+  "@tryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sessionExpired": "انتهت الجلسة",
+  "@sessionExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourSessionIsExpired": "جلستك انتهت.",
+  "@yourSessionIsExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillBeRedirectedToTheLogin": "ستتم إعادة توجيهك لتسجيل الدخول.",
+  "@youWillBeRedirectedToTheLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "غرامة",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toAccessThisFunctionality": "لاستخدام هذه الوظيفة تحتاج إلى شراء خطط.",
+  "@toAccessThisFunctionality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgrade": "تطوير",
+  "@upgrade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validationError": "خطئ في التحقق !",
+  "@validationError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitApp": "الخروج من التطبيق؟",
+  "@exitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToExitApp": "هل أنت متأكد أنك تريد الخروج من التطبيق؟",
+  "@areYouSureWantToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "لا",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "نعم",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "هل أنت متأكد أنك تريد تسجيل الخروج ؟",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeStatus": "تغيير الوضع",
+  "@changeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToChangeStatus": "هل أنت متأكد أنك تريد تغيير الحالة؟",
+  "@areYouSureYouWantToChangeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intructions": "تعليمات",
+  "@intructions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeSymbols": "يجب ألا يحتوي الاسم على رموز مثل @ #٪ ...",
+  "@nameShouldNotIncludeSymbols": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanUseToSaperateWords": "يمكنك استخدام - أو _ للكلمات.",
+  "@youCanUseToSaperateWords": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeCapitalLetters": "يجب ألا يحتوي الاسم على أحرف كبيرة.",
+  "@nameShouldNotIncludeCapitalLetters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCannotChangeDomainOnceYouCreated": "لا يمكنك تغيير اسم المجال بعد إنشائه.",
+  "@youCannotChangeDomainOnceYouCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageNotSelected": "الصورة غير محددة",
+  "@imageNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAtleastOneImage": "يرجى تحديد صورة واحدة على الأقل",
+  "@plzSelectAtleastOneImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorry": "عفوا !",
+  "@sorry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanNotSelectMoreThanImages": "لا يمكنك اختيار أكثر من 6 صور",
+  "@youCanNotSelectMoreThanImages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogNotSelected": "لم يتم تحديد الكتالوج",
+  "@catalogNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionAvailable": "يتوفر إصدار جديد",
+  "@newVersionAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "تحديث",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "سياسة الخصوصية",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNew": "ما هو الجديد :",
+  "@whatsNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "الأحكام والشروط",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzAgreeWithTermsAndConditions": "يرجى الموافقة على الشروط والأحكام.",
+  "@plzAgreeWithTermsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continu": "استمر",
+  "@continu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "جاري التحميل",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogTitle": "عنوان الكتالوج",
+  "@catalogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalog": "حدد قائمة الوالدين",
+  "@selectParentCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCatalog": "حدد الكتالوج",
+  "@selectCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItMainCatalog": "اجعلها الكتالوج الرئيسي",
+  "@makeItMainCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItSubCatalog": "اجعلها كتالوج فرعي",
+  "@makeItSubCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "لنصنع او لنبتكر",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalogFirst": "حدد القائمة الأصلية أولاً",
+  "@selectParentCatalogFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCannotBeImpty": "يجب ألا يكون الحقل فارغًا",
+  "@fieldCannotBeImpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteCatalog": "تأكيد حذف كتالوج",
+  "@confirmDeleteCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisCatalog": "هل أنت متأكد أنك تريد حذف هذا الكتالوج؟",
+  "@areYouSureWantToDeleteThisCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "قم بتأكيد حذف المنتج",
+  "@confirmDeleteProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouWantToSureDeleteThisProduct": "هل أنت متأكد أنك تريد حذف هذا المنتج؟",
+  "@areYouWantToSureDeleteThisProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataFound": "لاتوجد بيانات",
+  "@noDataFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRcode": "مسح رمز الاستجابة السريعة",
+  "@scanQRcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRgivenIn": "امسح QR الموجود في web.micatalogs.com للوصول إلى لوحة المشرف",
+  "@scanQRgivenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "أو",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuewithGoogle": "تابع مع Google",
+  "@continuewithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumber": "أدخل رقم",
+  "@enterNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youNeedToFillDetailsFirst": "تحتاج إلى ملء التفاصيل أولاً",
+  "@youNeedToFillDetailsFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorryThisFeatureIsNotLongerAvailable": "عذرا ، هذه الميزة لم تعد متوفرة",
+  "@sorryThisFeatureIsNotLongerAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzContinueWithGoogle": "رجاء ! تابع مع Google.",
+  "@plzContinueWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidNumber": "رقم غير صالح",
+  "@invalidNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPin": "إعادة تعيين دبوس",
+  "@resetPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendVerificationCode": "أرسل رمز التحقق",
+  "@sendVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontHaveAnAccount": "لا تملك حساب؟",
+  "@dontHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "سجل",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetYourPin": "نسيت رقم التعريف الشخصي؟",
+  "@forgetYourPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPinToProceedFurther": "أدخل رقم التعريف الشخصي للمتابعة.",
+  "@enterYourPinToProceedFurther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPin": "أدخل رقم التعريف الشخصي",
+  "@enterPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidPin": "يرجى إدخال رمز PIN صالح",
+  "@plzEnterValidPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPin": "دبوس جديد",
+  "@newPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongVerificationCode": "رمز التحقق غير صحيح!",
+  "@wrongVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "إعادة إرسال",
+  "@resend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "يرجى التصديق عليه",
+  "@verify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "domainName": "اسم النطاق",
+  "@domainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessname": "الاسم التجاري",
+  "@businessname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCategory": "اختر الفئة",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourCurrency": "اختر عملتك",
+  "@selectYourCurrency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectCategory": "يرجى تحديد الفئة",
+  "@plzSelectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappNumber": "رقم Whatsapp",
+  "@whatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "أضف منتج",
+  "@addProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "images": "صور",
+  "@images": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizaAndColor": "الحجم واللون",
+  "@sizaAndColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "basicInfo": "معلومات أساسية",
+  "@basicInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountPrice": "سعر الخصم",
+  "@discountPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "اللون",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorNameMustBeSame": "اسم اللون هو نفسه",
+  "@colorNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumOrderQty": "أقل كمية ممكن طلبها",
+  "@minimumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumOrderQty": "كمية الطلب القصوى",
+  "@maximumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "شكل",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizeNameMustBeSame": "اسم الحجم هو نفسه",
+  "@sizeNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stockAvailability": "توافر المخزون",
+  "@stockAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "available": "متاح",
+  "@available": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "outOfStock": "إنتهى من المخزن",
+  "@outOfStock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableQuantity": "الكمية المتوفرة",
+  "@availableQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity": "الكمية",
+  "@quantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setOrderQuantity": "تعيين كمية الطلب",
+  "@setOrderQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showOfStockProductToCatalogV": "عرض منتجات الأوراق المالية للزوار كتالوج",
+  "@showOfStockProductToCatalogV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowVisitorsToPlaceAnOrderOn": "السماح للزوار بالطلب من المخزون",
+  "@allowVisitorsToPlaceAnOrderOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTagOnProduct": "أضف علامة إلى المنتج",
+  "@addTagOnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "المنتج المميز",
+  "@featuredProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProduct": "منتج جديد",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMinimunAndMaximunQty": "أدخل الحد الأدنى والحد الأقصى لكميات الطلب.",
+  "@enterValidMinimunAndMaximunQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzPurchasePremiumPlan": "يرجى شراء خطة متميزة",
+  "@plzPurchasePremiumPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "تعديل",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "شارك",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappShare": "حصة Whatsapp",
+  "@whatsappShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "إزالة",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharePdf": "حصة قوات الدفاع الشعبي",
+  "@sharePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFeatured": "المميز إزالة",
+  "@removeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeFeatured": "اجعلها مميزة",
+  "@makeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogActions": "أنشطة الكتالوج",
+  "@catalogActions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogs": "فهرس",
+  "@catalogs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "المنتج",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "بحث",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchCatalog": "كتالوج البحث",
+  "@searchCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "بحث عن منتج",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "limitExceed": "فوق الحد",
+  "@limitExceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featured": "متميز",
+  "@featured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "تحرير المنتج",
+  "@editProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiries": "تحقيق",
+  "@inquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryDetails": "تفاصيل التحقيق",
+  "@inquiryDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "رسالة",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "تفاصيل الطلب",
+  "@orderDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPayment": "المبلغ الإجمالي",
+  "@totalPayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "ملحوظة",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "في الحسبان",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "completed": "منجز",
+  "@completed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "ألغيت",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orders": "طلب",
+  "@orders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessDetails": "وصف العمل",
+  "@businessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customDomain": "مجال مخصص",
+  "@customDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraNote": "مذكرة إضافية",
+  "@extraNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "وصف",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDomain": "تعيين المجال",
+  "@setDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseYearlyPlan": "إذا كنت ستشتري خطة سنوية. يمكنك تعيين نطاق مخصص مجانًا.",
+  "@ifYouWillPurchaseYearlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "free": " ",
+  "@free": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseMonthlyPlan": "إذا اشتريت خطة شهرية ، فعليك دفع مبلغ إضافي",
+  "@ifYouWillPurchaseMonthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editDetails": "عدل التفاصيل",
+  "@editDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessTagLine": "سطر علامة النشاط التجاري",
+  "@businessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessTagLine": "عرض سطر علامة النشاط التجاري.",
+  "@showBusinessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "رقم حساب",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifscCode": "كود IFSC",
+  "@ifscCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gstinNumber": "رقم GSTIN",
+  "@gstinNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "اسم البنك",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAddress": "عنوان البنك",
+  "@bankAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideBankDetailsFromCheckoutPage": "إخفاء تفاصيل البنك من صفحة الخروج",
+  "@hideBankDetailsFromCheckoutPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessLogoInsteadOfName": "إظهار شعار العمل بدلاً من الاسم.",
+  "@showBusinessLogoInsteadOfName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessEmail": "بريد العمل",
+  "@businessEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessAddress": "عنوان العمل",
+  "@businessAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "تعديل الملف الشخصي",
+  "@editProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchase": "يشترى",
+  "@purchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentSuccessful": "تم الدفع بنجاح",
+  "@paymentSuccessful": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planHistory": "تاريخ الخطة",
+  "@planHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plans": "الخطط",
+  "@plans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseCatalogAndProduct": "قم بزيادة الكتالوج وتخزين المنتج والحصول على المزيد من الميزات عن طريق شراء الخطط.",
+  "@increaseCatalogAndProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "features": "الميزات",
+  "@features": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "المحدد",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "الملف الشخصي",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "لغة",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgradeYourPlan": "ترقية خطتك",
+  "@upgradeYourPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "مساعدة",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "تسجيل خروج",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullUpLoad": "سحب الحمل",
+  "@pullUpLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadFailedClickRetry": "فشل التحميل! انقر فوق المحاولة مرة أخرى!",
+  "@loadFailedClickRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "releaseToLoadMore": "استمر في تحميل المزيد",
+  "@releaseToLoadMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreData": "لا مزيد من البيانات",
+  "@noMoreData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCount": "عدد الطلبات",
+  "@orderCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryCount": "عدد الاستفسارات",
+  "@inquiryCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webAdmin": "مسؤول الويب",
+  "@webAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "متجري",
+  "@myStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyUrl": "إنسخ الرابط",
+  "@copyUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeUrlCopied": "تم نسخ عنوان URL الخاص بالمتجر.",
+  "@storeUrlCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAtleastOneCatalog": "إنشاء كتالوج واحد على الأقل",
+  "@createAtleastOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareStore": "مشاركة المتجر",
+  "@shareStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preview": "معاينة",
+  "@preview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentDetails": "بيانات الدفع",
+  "@paymentDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "اسم الشركة",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currency": "عملة",
+  "@currency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "اختر لغتك",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "خطأ",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAnyOneCatalog": "الرجاء تحديد أي كتالوج واحد",
+  "@plzSelectAnyOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidMobileNumber": "الرجاء إدخال رقم هاتف صحيح",
+  "@plzEnterValidMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "أدخل بريدًا إلكترونيًا صالحًا",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzFillTheFollowingDetails": "يرجى ملء التفاصيل التالية",
+  "@plzFillTheFollowingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidWhatsappNumber": "أدخل رقم Whatsapp صالح",
+  "@enterValidWhatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itIncludesSpecialCharacters": "يتضمن شخصيات خاصة",
+  "@itIncludesSpecialCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egSmall": "على سبيل المثال: صغير",
+  "@egSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egRed": "على سبيل المثال: أحمر",
+  "@egRed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidQuantity": "أدخل كمية صالحة",
+  "@enterValidQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDomainName": "أدخل اسم مجال صالح.",
+  "@enterValidDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tagLineMaxIn20Characters": "نص سطر العلامة بحد أقصى 20 حرفًا.",
+  "@tagLineMaxIn20Characters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "الفئة",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditProfileDetails": "إظهار وتحرير تفاصيل ملفك الشخصي",
+  "@showAndEditProfileDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditBusinessDetails": "إظهار وتحرير تفاصيل عملك",
+  "@showAndEditBusinessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptions": "الاشتراكات",
+  "@subscriptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeOurPremiumPlanToGet": "اشترك في خطتنا المميزة للحصول على المزيد من الميزات",
+  "@subscribeOurPremiumPlanToGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "اللغات",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableInSixLanguages": "متوفر بعدة لغات",
+  "@availableInSixLanguages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "طريقة الدفع او السداد",
+  "@paymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPaymentMethodsForYourShop": "تعيين طرق الدفع لمتجرك",
+  "@setPaymentMethodsForYourShop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setYourOwnDomainName": "حدد اسم المجال الخاص بك",
+  "@setYourOwnDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInstantSupportFromTeam": "احصل على دعم فوري من فريق MiCatalogs",
+  "@getInstantSupportFromTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutYourAcc": "قم بتسجيل الخروج من حسابك",
+  "@logoutYourAcc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "طرق الدفع",
+  "@paymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPaymentMethods": "اختار طريقة الدفع",
+  "@selectPaymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cod": "الدفع عند الاستلام",
+  "@cod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active": "نشيط",
+  "@active": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deactive": "معطل",
+  "@deactive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisMethod": "هل تريد بالتأكيد حذف هذه الطريقة؟",
+  "@areYouSureWantToDeleteThisMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectPaymentMethod": "يرجى تحديد طريقة الدفع",
+  "@plzSelectPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentKeys": "مفاتيح الدفع",
+  "@paymentKeys": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourPaymentMethod": "إختر طريقة الدفع",
+  "@selectYourPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicKey": "المفتاح العمومي",
+  "@publicKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privateKey": "مفتاح سري",
+  "@privateKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendRequest": "ارسل طلب",
+  "@sendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted": "قبلت",
+  "@accepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packingAndShippingOptinal": "التعبئة والشحن (اختياري)",
+  "@packingAndShippingOptinal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimatedDeliveryDate": "التاريخ المتوقع للوصول",
+  "@estimatedDeliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "حدد تاريخ",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "فعله",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeReason": "اكتب السبب",
+  "@writeReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inProcess": "تحت المعالجة",
+  "@inProcess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingDetails": "تفاصيل الشحن",
+  "@shippingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTrackingLink": "رابط تتبع الطلب",
+  "@orderTrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entertrackingLink": "أدخل رابط التتبع",
+  "@entertrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCancellationReason": "سبب إلغاء الأمر",
+  "@orderCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLink": "أدخل رابطًا صالحًا",
+  "@enterValidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "حدد الدولة",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectState": "اختر ولايه",
+  "@selectState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCity": "اختر مدينة",
+  "@selectCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webStoreLang": "لغة المتجر الإلكتروني",
+  "@webStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectStoreLang": "حدد لغة المتجر",
+  "@selectStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customers": "الزبائن",
+  "@customers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingTime": "الوقت المتبقي",
+  "@remainingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "أيام",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPlan": "الخطة الحالية",
+  "@currentPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planExtension": "تمديد الخطة",
+  "@planExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "convertYourplanMonthlyToYearly": "حوّل خطتك شهريًا إلى سنوي",
+  "@convertYourplanMonthlyToYearly": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewUsOnPlayStore": "قم بمراجعتنا على متجر اللعب",
+  "@reviewUsOnPlayStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "تاريخ الانتهاء",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeNow": "إشترك الآن",
+  "@subscribeNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateAndReview": "مراجعة معدل",
+  "@rateAndReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteInquiries": "حذف الاستفسارات",
+  "@deleteInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisInquiries": "هل أنت متأكد من حذف هذه الاستفسارات؟",
+  "@areYouSureWantToDeleteThisInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manufacturer": "الصانع",
+  "@manufacturer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wholesaler": "Wholesaler",
+  "@wholesaler": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distributor": "موزع",
+  "@distributor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exporter": "مصدر",
+  "@exporter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reseller": "الموزع",
+  "@reseller": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agent": "وكيل",
+  "@agent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referAndEarn": "راجع وكسب",
+  "@referAndEarn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referYourFriendsAndEarnExtraRewards": "قم بإحالة أصدقائك وكسب مكافآت إضافية.",
+  "@referYourFriendsAndEarnExtraRewards": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareYourReferralCodeWithYourFriends": "شارك كود الإحالة الخاص بك مع أصدقائك.",
+  "@shareYourReferralCodeWithYourFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referralCode": "كود الإحالة:",
+  "@referralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyCopied": "تم النسخ بنجاح",
+  "@successfullyCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareWithWhatsapp": "شارك مع Whatsapp",
+  "@shareWithWhatsapp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referOneYearlySubscriptionAnd": "راجع اشتراك سنوي واحد واحصل على تمديد لمدة 3 أشهر.",
+  "@referOneYearlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referThreeMonthlySubscriptionAnd": "راجع اشتراك شهري 3 واحصل على تمديد شهر واحد.",
+  "@referThreeMonthlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerWithReferralCodeAnd": "سجل برمز الإحالة واحصل على شهرين إضافيين عند الاشتراك السنوي.",
+  "@registerWithReferralCodeAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouHaveAnyReferralCode?": "هل لديك كود الإحالة؟",
+  "@doYouHaveAnyReferralCode?": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterReferralCode": "أدخل رمز الإحالة",
+  "@enterReferralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeBanners": "لافتات المتجر",
+  "@storeBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditYourStoreBanners": "عرض وتحرير لافتات متجرك",
+  "@showAndEditYourStoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigationLink": "رابط التنقل",
+  "@navigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCantUploadMoreBanners": "لا يمكنك تحميل المزيد من اللافتات",
+  "@youCantUploadMoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editBanner": "تحرير الشعار",
+  "@editBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteBanner": "حذف البانر",
+  "@deleteBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerRemoveMsg": "هل تريد بالتأكيد إزالة هذا الشعار من متجرك الإلكتروني",
+  "@bannerRemoveMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addImage": "إضافة صورة",
+  "@addImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addBanner": "أضف بانر",
+  "@addBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterBannerNavigationLink": "أدخل رابط التنقل في البانر",
+  "@enterBannerNavigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectTheBannerImage": "الرجاء تحديد صورة البانر",
+  "@plzSelectTheBannerImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trial": "التجربة",
+  "@trial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "premium": "الممتازة",
+  "@premium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotAvailable": "البريد الإلكتروني غير متاح",
+  "@emailNotAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkOutMyStore": "تحقق من متجري",
+  "@checkOutMyStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerSizeMustBeInpx": "يجب أن يكون حجم البانر الخاص بك 1920 × 500 بكسل.",
+  "@bannerSizeMustBeInpx": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createMenu": "إنشاء قائمة",
+  "@createMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourCuisineTypes": "أدخل أنواع المطبخ الخاصة بك",
+  "@enterYourCuisineTypes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exSouthIndianEtc": "مثال جنوب الهند ، إلخ.",
+  "@exSouthIndianEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourDishName": "أدخل اسم صحنك",
+  "@enterYourDishName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exMasalaDhosaEtc": "مثال ماسالا ذوسة ، إلخ.",
+  "@exMasalaDhosaEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDishDescription": "أدخل وصف الطبق",
+  "@enterDishDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPrice": "أدخل السعر",
+  "@enterPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs200etc": "مثال: RS 220 ، إلخ.",
+  "@exRs200etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountedPrice": "سعر مخفض",
+  "@discountedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs199etc": "مثال: 199 روبية ، وما إلى ذلك.",
+  "@exRs199etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createTags": "إنشاء علامات",
+  "@createTags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTagName": "أدخل اسم العلامة",
+  "@enterTagName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addRestaurant": "أضف مطعم",
+  "@addRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLogo": "إضافة شعار",
+  "@addLogo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereIsYourRestaurant": "أين مطعمك؟",
+  "@whereIsYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourAddress": "أدخل عنوانك",
+  "@enterYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whichTypeOfRestaurant": "أي نوع من المطاعم؟",
+  "@whichTypeOfRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegetarian": "نباتي",
+  "@vegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nonVegetarian": "غير نباتي",
+  "@nonVegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "both": "على حد سواء",
+  "@both": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "التالى",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "تغيير العنوان",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterRestaurantAddress": "أدخل عنوان المطعم",
+  "@enterRestaurantAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityName": "اسم المنطقة",
+  "@localityName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidAddressField": "أدخل حقل عنوان صالح",
+  "@enterValidAddressField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLocalityField": "أدخل حقل محلية صالحة",
+  "@enterValidLocalityField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDishes": "جميع الأطباق",
+  "@allDishes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDish": "أضف صحن",
+  "@addDish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "إيقاف",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availability": "التوفر",
+  "@availability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inWhichDaysWillYourRestaurantContinue": "في أي يوم سيستمر مطعمك؟",
+  "@inWhichDaysWillYourRestaurantContinue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDays": "كل الأيام",
+  "@allDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDays": "حدد الأيام",
+  "@selectDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setTimeSlot": "اضبط فتحة الوقت",
+  "@setTimeSlot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumDistanceForFoodDelivery": "المسافة القصوى لتوصيل الطعام",
+  "@maximumDistanceForFoodDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocation": "الموقع الحالي",
+  "@currentLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDeliveryMode": "حدد وضع التسليم",
+  "@selectDeliveryMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpByYourself": "تلتقط بنفسك",
+  "@pickUpByYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryByRestaurant": "التسليم عن طريق المطعم",
+  "@deliveryByRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnableYourLocation": "يرجى تمكين موقعك",
+  "@pleaseEnableYourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createYourOnlineStore": "إنشاء متجرك عبر الإنترنت",
+  "@createYourOnlineStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "مطعم",
+  "@restaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "الكل",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startTime": "وقت البدء",
+  "@startTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "endTime": "وقت النهاية",
+  "@endTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeMustBeSame": "يجب أن يكون الوقت هو نفسه",
+  "@timeMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTime": "أدخل وقتًا صالحًا",
+  "@enterValidTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "open24hours": "مفتوحة 24 ساعة",
+  "@open24hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setLocation": "تحديد المكان",
+  "@setLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourLocation": "موقعك",
+  "@yourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityNotFound": "لم يتم العثور على المنطقة",
+  "@localityNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "يتغيرون",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressNotFound": "لم يتم العثور على العنوان",
+  "@addressNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectYourAddress": "يرجى تحديد عنوانك",
+  "@pleaseSelectYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLocation": "تأكيد الموقع",
+  "@confirmLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "storeDeliveryCharge": "رسوم توصيل المتجر",
+  "@storeDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "freeDelivery": "توصيل مجاني",
+  "@freeDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "addDeliveryCharge": "إضافة رسوم التوصيل",
+  "@addDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "enterDeliveryCharge": "أدخل رسوم التوصيل",
+  "@enterDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "restaurantAvailability": "توافر مطعم",
+  "@restaurantAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "availabilityOfYourRestaurant": "توافر مطعمك",
+  "@availabilityOfYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unlimited": "غير محدود",
+  "@unlimited": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "freee": "مجانا",
+  "@freee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge": "رسوم الشحن",
+  "@shippingCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge2": "رسوم الشحن",
+  "@shippingCharge2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoice": "فاتورة",
+  "@invoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "تاريخ",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderNo": "رقم الطلب.",
+  "@orderNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address2": "عنوان",
+  "@address2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name2": "اسم",
+  "@name2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email2": "البريد الإلكتروني",
+  "@email2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "رقم الهاتف",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "المجموع الفرعي",
+  "@subTotal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "المبلغ الإجمالي",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCompleted": "وضع علامة كمكتمل",
+  "@markAsCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCancelled": "وضع علامة ملغاة",
+  "@markAsCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsPending": "وضع علامة معلق",
+  "@markAsPending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "اسم المنتج",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity2": "كمية",
+  "@quantity2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPrice": "السعر الكلي",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPixelId": "أدخل معرف بكسل صالحًا",
+  "@enterValidPixelId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "analytics": "تحليلات",
+  "@analytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceboolPixelAndGoogleAnalytics": "Facebook Pixel و Google Analytics",
+  "@faceboolPixelAndGoogleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookPixel": "Facebook Pixel",
+  "@facebookPixel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKeyId": "أدخل معرف المفتاح",
+  "@enterKeyId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getHelp": "احصل على مساعدة ؟",
+  "@getHelp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleAnalytics": "Google Analytics",
+  "@googleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTrackingId": "أدخل معرف التتبع",
+  "@enterTrackingId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trialplan": "محاكمة",
+  "@trialplan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monthlyPlan": "شهريا",
+  "@monthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyplan": "سنوي",
+  "@yearlyplan": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

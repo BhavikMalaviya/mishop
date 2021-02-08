@@ -1,0 +1,1949 @@
+{
+  "@@locale" :  "id" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "ID",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youMustEnterMobileNumber": "Anda harus memasukkan nomor Ponsel",
+  "@youMustEnterMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeAtleast4Character": "Pin harus minimal 4 karakter",
+  "@pinMustBeAtleast4Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeSame": "Pin harus sama",
+  "@pinMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinNotMatched": "Pin tidak cocok",
+  "@pinNotMatched": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameMustBeAtleast3Character": "Nama minimal harus 3 karakter",
+  "@nameMustBeAtleast3Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "Ada yang salah",
+  "@somethingWentWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessName": "Nama Bisnis",
+  "@businessName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pin": "Pin",
+  "@pin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "varificationCode": "Kode verifikasi",
+  "@varificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTypeTheVerificationCodeSentTo": "Silakan ketik kode verifikasi yang dikirim ke",
+  "@plzTypeTheVerificationCodeSentTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontReceiveTheCode": "Tidak menerima kode? ",
+  "@dontReceiveTheCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNewPin": "Masukkan pin baru",
+  "@enterNewPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPin": "Konfirmasikan pin",
+  "@confirmPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "Nama depan",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "nama keluarga",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "surel",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "No Telepon",
+  "@phoneNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Alamat",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "Judul produk",
+  "@productTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productPrice": "Harga produk",
+  "@productPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Deskripsi",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "Tidak ada koneksi internet",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTurnOnInternetConnectionAndTryAgain": "Silakan aktifkan koneksi internet dan coba lagi.",
+  "@plzTurnOnInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgain": "Coba lagi",
+  "@tryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sessionExpired": "Sesi berakhir",
+  "@sessionExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourSessionIsExpired": "Sesi Anda kedaluwarsa.",
+  "@yourSessionIsExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillBeRedirectedToTheLogin": "Anda akan diarahkan ke login.",
+  "@youWillBeRedirectedToTheLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "baik",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toAccessThisFunctionality": "Untuk mengakses fungsi ini, Anda perlu membeli paket.",
+  "@toAccessThisFunctionality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgrade": "Meningkatkan",
+  "@upgrade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validationError": "Kesalahan validasi!",
+  "@validationError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitApp": "Keluar dari aplikasi?",
+  "@exitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToExitApp": "Anda yakin ingin keluar dari aplikasi?",
+  "@areYouSureWantToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Tidak",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Iya",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "Anda yakin ingin keluar?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeStatus": "merubah status",
+  "@changeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToChangeStatus": "Anda yakin ingin mengubah status?",
+  "@areYouSureYouWantToChangeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intructions": "Instruksi",
+  "@intructions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeSymbols": "Nama tidak boleh termasuk simbol seperti @ #% ...",
+  "@nameShouldNotIncludeSymbols": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanUseToSaperateWords": "Anda dapat menggunakan - atau _ untuk memisahkan kata-kata.",
+  "@youCanUseToSaperateWords": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeCapitalLetters": "Nama tidak boleh termasuk huruf kapital.",
+  "@nameShouldNotIncludeCapitalLetters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCannotChangeDomainOnceYouCreated": "Anda tidak dapat mengubah nama domain setelah Anda membuat.",
+  "@youCannotChangeDomainOnceYouCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageNotSelected": "Gambar tidak dipilih",
+  "@imageNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAtleastOneImage": "Silakan pilih setidaknya satu gambar",
+  "@plzSelectAtleastOneImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorry": "Maaf!",
+  "@sorry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanNotSelectMoreThanImages": "Anda tidak dapat memilih lebih dari 6 gambar",
+  "@youCanNotSelectMoreThanImages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogNotSelected": "Katalog tidak Dipilih",
+  "@catalogNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionAvailable": "Versi baru tersedia",
+  "@newVersionAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "Memperbarui",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Rahasia pribadi",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNew": "Apa yang baru :",
+  "@whatsNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "Syarat & Ketentuan.",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzAgreeWithTermsAndConditions": "Harap Setuju dengan syarat & ketentuan.",
+  "@plzAgreeWithTermsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continu": "Terus",
+  "@continu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Memuat",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogTitle": "Judul katalog",
+  "@catalogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalog": "Pilih Katalog Induk",
+  "@selectParentCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCatalog": "Pilih Katalog",
+  "@selectCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItMainCatalog": "Jadikan Utama-Katalog",
+  "@makeItMainCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItSubCatalog": "Jadikan Sub-Katalog",
+  "@makeItSubCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Membuat",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalogFirst": "Pilih katalog induk terlebih dahulu",
+  "@selectParentCatalogFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCannotBeImpty": "Bidang tidak boleh kosong",
+  "@fieldCannotBeImpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteCatalog": "Konfirmasikan hapus katalog",
+  "@confirmDeleteCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisCatalog": "Anda yakin ingin menghapus katalog ini.",
+  "@areYouSureWantToDeleteThisCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "Konfirmasikan penghapusan produk",
+  "@confirmDeleteProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouWantToSureDeleteThisProduct": "Anda yakin ingin menghapus produk ini.",
+  "@areYouWantToSureDeleteThisProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataFound": "Tidak ada data ditemukan",
+  "@noDataFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRcode": "Pindai kode QR",
+  "@scanQRcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRgivenIn": "Pindai QR yang diberikan di web.micatalogs.com untuk mengakses panel Admin",
+  "@scanQRgivenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "ATAU",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuewithGoogle": "Lanjutkan Dengan Google",
+  "@continuewithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumber": "Masukkan nomor",
+  "@enterNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youNeedToFillDetailsFirst": "Anda harus mengisi detail terlebih dahulu",
+  "@youNeedToFillDetailsFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorryThisFeatureIsNotLongerAvailable": "Maaf fitur ini tidak lagi tersedia",
+  "@sorryThisFeatureIsNotLongerAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzContinueWithGoogle": "Silahkan ! Lanjutkan dengan google ..",
+  "@plzContinueWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidNumber": "Nomor tidak valid",
+  "@invalidNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPin": "Setel Ulang Pin",
+  "@resetPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendVerificationCode": "Kirim kode verifikasi",
+  "@sendVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontHaveAnAccount": "Belum punya akun?",
+  "@dontHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Daftar",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetYourPin": "Lupakan pin Anda? ",
+  "@forgetYourPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Gabung",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPinToProceedFurther": "Masukkan pin Anda untuk melanjutkan lebih jauh.",
+  "@enterYourPinToProceedFurther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPin": "Masukkan PIN",
+  "@enterPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidPin": "Silakan masukkan pin yang valid",
+  "@plzEnterValidPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPin": "Pin Baru",
+  "@newPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongVerificationCode": "Kode verifikasi salah!",
+  "@wrongVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "Kirim ulang",
+  "@resend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "Memeriksa",
+  "@verify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "domainName": "Nama domain",
+  "@domainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessname": "Nama Bisnis",
+  "@businessname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCategory": "Pilih Kategori",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourCurrency": "Pilih mata uang Anda",
+  "@selectYourCurrency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectCategory": "Silakan pilih kategori",
+  "@plzSelectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappNumber": "Nomor Whatsapp",
+  "@whatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "Tambahkan Produk",
+  "@addProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Menyimpan",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "images": "Gambar-gambar",
+  "@images": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizaAndColor": "Ukuran dan Warna",
+  "@sizaAndColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "basicInfo": "Info dasar",
+  "@basicInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountPrice": "Harga Diskon",
+  "@discountPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "Warna",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorNameMustBeSame": "Nama warna harus sama",
+  "@colorNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumOrderQty": "Jumlah Pesanan Minimum",
+  "@minimumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumOrderQty": "Kuantitas Pesanan Maksimum",
+  "@maximumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Ukuran",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizeNameMustBeSame": "Nama ukuran harus sama",
+  "@sizeNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stockAvailability": "Ketersediaan stok",
+  "@stockAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "available": "Tersedia",
+  "@available": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "outOfStock": "Kehabisan persediaan",
+  "@outOfStock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableQuantity": "Jumlah yang tersedia",
+  "@availableQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity": "Kuantitas",
+  "@quantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setOrderQuantity": "Tetapkan Kuantitas Pesanan",
+  "@setOrderQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showOfStockProductToCatalogV": "Tampilkan stok produk ke pengunjung katalog",
+  "@showOfStockProductToCatalogV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowVisitorsToPlaceAnOrderOn": "Izinkan pengunjung melakukan pemesanan pada produk Anda yang habis",
+  "@allowVisitorsToPlaceAnOrderOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTagOnProduct": "Tambahkan Tag pada Produk",
+  "@addTagOnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "Produk unggulan",
+  "@featuredProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProduct": "Produk baru",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMinimunAndMaximunQty": "Masukkan jumlah minimum & maksimum yang valid.",
+  "@enterValidMinimunAndMaximunQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzPurchasePremiumPlan": "Silakan beli paket premium",
+  "@plzPurchasePremiumPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "Bagikan",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappShare": "Whatsapp Bagikan",
+  "@whatsappShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Menghapus",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharePdf": "Bagikan PDF",
+  "@sharePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFeatured": "Hapus Unggulan",
+  "@removeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeFeatured": "jadikan Unggulan",
+  "@makeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogActions": "Tindakan Katalog",
+  "@catalogActions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogs": "Katalog",
+  "@catalogs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Produk",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Cari",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchCatalog": "Cari katalog",
+  "@searchCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "Cari produk",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "limitExceed": "Batasi Melebihi",
+  "@limitExceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featured": "Unggulan",
+  "@featured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "Edit Produk",
+  "@editProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiries": "Pertanyaan",
+  "@inquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryDetails": "Detail pertanyaan",
+  "@inquiryDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Pesan",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "Detail pesanan",
+  "@orderDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPayment": "Total pembayaran",
+  "@totalPayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "Catatan",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "Tertunda",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "completed": "Lengkap",
+  "@completed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "Dibatalkan",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orders": "Pesanan",
+  "@orders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessDetails": "Detail Bisnis",
+  "@businessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customDomain": "Domain Khusus",
+  "@customDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraNote": "Catatan ekstra",
+  "@extraNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Detail",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDomain": "Tetapkan Domain",
+  "@setDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseYearlyPlan": "Jika Anda akan membeli paket tahunan. Anda dapat mengatur domain khusus di",
+  "@ifYouWillPurchaseYearlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "free": " Gratis.",
+  "@free": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseMonthlyPlan": "Jika Anda akan membeli paket bulanan, Anda perlu membayar ekstra",
+  "@ifYouWillPurchaseMonthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editDetails": "Edit Detail",
+  "@editDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessTagLine": "Tag-line Bisnis",
+  "@businessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessTagLine": "Tampilkan Tag-line bisnis.",
+  "@showBusinessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "Nomor rekening",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifscCode": "kode ifsc",
+  "@ifscCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gstinNumber": "Nomor GSTIN",
+  "@gstinNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "nama Bank",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAddress": "Alamat bank",
+  "@bankAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideBankDetailsFromCheckoutPage": "Sembunyikan detail bank dari halaman checkout",
+  "@hideBankDetailsFromCheckoutPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessLogoInsteadOfName": "Tampilkan Logo bisnis alih-alih nama.",
+  "@showBusinessLogoInsteadOfName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessEmail": "Email Bisnis",
+  "@businessEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessAddress": "Alamat bisnis",
+  "@businessAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "Sunting profil",
+  "@editProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchase": "Membeli",
+  "@purchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentSuccessful": "Pembayaran berhasil",
+  "@paymentSuccessful": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planHistory": "Rencanakan sejarah",
+  "@planHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plans": "Rencana",
+  "@plans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseCatalogAndProduct": "Tingkatkan katalog dan penyimpanan produk dan dapatkan lebih banyak fitur dengan rencana pembelian.",
+  "@increaseCatalogAndProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "features": "fitur",
+  "@features": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "Terpilih",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Pengaturan",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profil",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Bahasa",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgradeYourPlan": "Tingkatkan Paket Anda",
+  "@upgradeYourPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "Dukung",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Keluar",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullUpLoad": "tarik beban",
+  "@pullUpLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadFailedClickRetry": "Muat Gagal! Klik coba lagi!",
+  "@loadFailedClickRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "releaseToLoadMore": "lepaskan untuk memuat lebih banyak",
+  "@releaseToLoadMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreData": "Tidak ada lagi data",
+  "@noMoreData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCount": "Jumlah Pesanan",
+  "@orderCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryCount": "Jumlah pertanyaan",
+  "@inquiryCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webAdmin": "Admin Web",
+  "@webAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "Toko saya",
+  "@myStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyUrl": "Salin URL",
+  "@copyUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeUrlCopied": "Simpan url yang disalin.",
+  "@storeUrlCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAtleastOneCatalog": "Buat minimal satu Katalog",
+  "@createAtleastOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareStore": "Bagikan Toko",
+  "@shareStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preview": "Pratinjau",
+  "@preview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentDetails": "Rincian Pembayaran",
+  "@paymentDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "Nama Perusahaan",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currency": "Mata uang",
+  "@currency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Pilih bahasamu",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Kesalahan",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAnyOneCatalog": "Silakan pilih satu katalog",
+  "@plzSelectAnyOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidMobileNumber": "Silakan masukkan nomor ponsel yang valid",
+  "@plzEnterValidMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "masuk kan email yang benar",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzFillTheFollowingDetails": "Silakan isi detail berikut",
+  "@plzFillTheFollowingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidWhatsappNumber": "Masukkan nomor Whatsapp yang valid",
+  "@enterValidWhatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itIncludesSpecialCharacters": "Ini termasuk karakter khusus",
+  "@itIncludesSpecialCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egSmall": "misal: Kecil",
+  "@egSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egRed": "mis. Merah",
+  "@egRed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidQuantity": "Masukkan jumlah yang valid",
+  "@enterValidQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDomainName": "Masukkan nama Domain yang valid.",
+  "@enterValidDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tagLineMaxIn20Characters": "Tag maksimal teks baris dalam 20 karakter.",
+  "@tagLineMaxIn20Characters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Kategori",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditProfileDetails": "Tampilkan dan edit detail profil Anda",
+  "@showAndEditProfileDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditBusinessDetails": "Tampilkan dan edit detail bisnis Anda",
+  "@showAndEditBusinessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptions": "Berlangganan",
+  "@subscriptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeOurPremiumPlanToGet": "Berlangganan paket premium kami untuk mendapatkan lebih banyak fitur",
+  "@subscribeOurPremiumPlanToGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Bahasa",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableInSixLanguages": "Tersedia dalam lebih bahasa",
+  "@availableInSixLanguages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "Cara Pembayaran",
+  "@paymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPaymentMethodsForYourShop": "Tetapkan metode pembayaran untuk toko Anda",
+  "@setPaymentMethodsForYourShop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setYourOwnDomainName": "Tetapkan nama domain Anda sendiri",
+  "@setYourOwnDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInstantSupportFromTeam": "Dapatkan dukungan instan dari tim MiCatalogs",
+  "@getInstantSupportFromTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutYourAcc": "Logout akun Anda",
+  "@logoutYourAcc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "cara Pembayaran",
+  "@paymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPaymentMethods": "Pilih metode pembayaran",
+  "@selectPaymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cod": "Bayar di tempat",
+  "@cod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active": "Aktif",
+  "@active": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deactive": "Tidak aktif",
+  "@deactive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisMethod": "Anda yakin ingin menghapus metode ini?",
+  "@areYouSureWantToDeleteThisMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectPaymentMethod": "Silakan pilih metode pembayaran",
+  "@plzSelectPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentKeys": "Kunci pembayaran",
+  "@paymentKeys": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourPaymentMethod": "Pilih metode pembayaran Anda",
+  "@selectYourPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicKey": "Kunci Publik",
+  "@publicKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privateKey": "Kunci Pribadi",
+  "@privateKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendRequest": "Kirim permintaan",
+  "@sendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted": "Diterima",
+  "@accepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packingAndShippingOptinal": "Packing & pengiriman (opsional)",
+  "@packingAndShippingOptinal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimatedDeliveryDate": "Tanggal pengiriman diperkirakan",
+  "@estimatedDeliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "Pilih Tanggal",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Selesai",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeReason": "Tulis alasan",
+  "@writeReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inProcess": "di jalan",
+  "@inProcess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingDetails": "Rincian pengiriman",
+  "@shippingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTrackingLink": "Tautan pelacakan pesanan",
+  "@orderTrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entertrackingLink": "Masukkan tautan pelacakan",
+  "@entertrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCancellationReason": "memesan Alasan Pembatalan",
+  "@orderCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLink": "masukkan tautan yang valid",
+  "@enterValidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "Pilih negara",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectState": "Pilih negara bagian",
+  "@selectState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCity": "Pilih kota",
+  "@selectCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webStoreLang": "Bahasa toko web",
+  "@webStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectStoreLang": "Pilih bahasa toko",
+  "@selectStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customers": "pelanggan",
+  "@customers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingTime": "Waktu yang tersisa",
+  "@remainingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "Berhari-hari",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPlan": "Rencana saat ini",
+  "@currentPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planExtension": "Merencanakan Perpanjangan",
+  "@planExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "convertYourplanMonthlyToYearly": "Ubah paket Anda setiap bulan menjadi tahunan",
+  "@convertYourplanMonthlyToYearly": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewUsOnPlayStore": "Tinjau kami di play store",
+  "@reviewUsOnPlayStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Tanggal kadaluarsa",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeNow": "Berlangganan sekarang",
+  "@subscribeNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateAndReview": "Beri peringkat & Ulasan",
+  "@rateAndReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteInquiries": "Hapus cek",
+  "@deleteInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisInquiries": "Anda yakin ingin menghapus pertanyaan ini?",
+  "@areYouSureWantToDeleteThisInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manufacturer": "Pabrikan",
+  "@manufacturer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wholesaler": "Grosir",
+  "@wholesaler": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distributor": "Distributor",
+  "@distributor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exporter": "Eksportir",
+  "@exporter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reseller": "Pengecer",
+  "@reseller": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agent": "Agen",
+  "@agent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referAndEarn": "Rujuk & Dapatkan",
+  "@referAndEarn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referYourFriendsAndEarnExtraRewards": "Referensikan teman Anda dan dapatkan hadiah tambahan.",
+  "@referYourFriendsAndEarnExtraRewards": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareYourReferralCodeWithYourFriends": "Bagikan kode referensi Anda dengan teman-teman Anda.",
+  "@shareYourReferralCodeWithYourFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referralCode": "Kode Rujukan:",
+  "@referralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyCopied": "Berhasil Disalin",
+  "@successfullyCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareWithWhatsapp": "Bagikan dengan Whatsapp",
+  "@shareWithWhatsapp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referOneYearlySubscriptionAnd": "Referensikan 1 kepelangganan tahunan dan dapatkan perpanjangan 3 bulan.",
+  "@referOneYearlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referThreeMonthlySubscriptionAnd": "Lihat 3 langganan bulanan dan dapatkan ekstensi 1 bulan.",
+  "@referThreeMonthlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerWithReferralCodeAnd": "Daftar dengan kode rujukan dan dapatkan tambahan 2 bulan dengan berlangganan tahunan.",
+  "@registerWithReferralCodeAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouHaveAnyReferralCode?": "Apakah Anda memiliki kode referensi?",
+  "@doYouHaveAnyReferralCode?": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterReferralCode": "Masukkan kode rujukan",
+  "@enterReferralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeBanners": "Simpan Spanduk",
+  "@storeBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditYourStoreBanners": "Tampilkan dan edit spanduk toko Anda",
+  "@showAndEditYourStoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigationLink": "Tautan navigasi",
+  "@navigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCantUploadMoreBanners": "Anda tidak dapat mengunggah lebih banyak spanduk",
+  "@youCantUploadMoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editBanner": "Edit Spanduk",
+  "@editBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteBanner": "Hapus Spanduk",
+  "@deleteBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerRemoveMsg": "Yakin ingin menghapus spanduk ini dari toko web Anda",
+  "@bannerRemoveMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addImage": "Menambahkan gambar",
+  "@addImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addBanner": "Tambahkan Spanduk",
+  "@addBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterBannerNavigationLink": "Masukkan tautan navigasi banner",
+  "@enterBannerNavigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectTheBannerImage": "Masukkan tautan navigasi banner",
+  "@plzSelectTheBannerImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trial": "percobaan",
+  "@trial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "premium": "Premium",
+  "@premium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotAvailable": "Email tidak tersedia",
+  "@emailNotAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkOutMyStore": "Lihat toko saya",
+  "@checkOutMyStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerSizeMustBeInpx": "Ukuran spanduk Anda harus dalam 1920px x 500px.",
+  "@bannerSizeMustBeInpx": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createMenu": "Buat menu",
+  "@createMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourCuisineTypes": "Masukkan jenis masakan Anda",
+  "@enterYourCuisineTypes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exSouthIndianEtc": "Mis. Indonesia, dll",
+  "@exSouthIndianEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourDishName": "Masukkan Nama Hidangan Anda",
+  "@enterYourDishName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exMasalaDhosaEtc": "Mis. Misala Dhosa, dll.",
+  "@exMasalaDhosaEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDishDescription": "Masukkan Deskripsi Hidangan",
+  "@enterDishDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPrice": "Masukkan Harga",
+  "@enterPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs200etc": "Mis. RS220, dll.",
+  "@exRs200etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountedPrice": "Harga setelah diskon",
+  "@discountedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs199etc": "Mis. RS199, dll.",
+  "@exRs199etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createTags": "Buat Tag",
+  "@createTags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTagName": "Masukkan nama tag",
+  "@enterTagName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addRestaurant": "Tambahkan Restoran",
+  "@addRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLogo": "Tambahkan Logo",
+  "@addLogo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereIsYourRestaurant": "Di mana restoran Anda?",
+  "@whereIsYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourAddress": "Masukkan alamat Anda",
+  "@enterYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whichTypeOfRestaurant": "Jenis restoran apa?",
+  "@whichTypeOfRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegetarian": "Vegetarian",
+  "@vegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nonVegetarian": "Bukan vegetarian",
+  "@nonVegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "both": "Kedua",
+  "@both": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "LANJUT",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "Ubah Alamat",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterRestaurantAddress": "Masukkan Alamat Restoran",
+  "@enterRestaurantAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityName": "Nama Daerah",
+  "@localityName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidAddressField": "Masukkan bidang alamat yang valid",
+  "@enterValidAddressField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLocalityField": "Masukkan bidang lokalitas yang valid",
+  "@enterValidLocalityField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDishes": "Semua hidangan",
+  "@allDishes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDish": "Tambahkan Hidangan",
+  "@addDish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "OFF",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availability": "Ketersediaan",
+  "@availability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inWhichDaysWillYourRestaurantContinue": "Di hari mana restoran Anda akan berlanjut?",
+  "@inWhichDaysWillYourRestaurantContinue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDays": "Semua Hari",
+  "@allDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDays": "Pilih hari",
+  "@selectDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setTimeSlot": "Setel slot waktu",
+  "@setTimeSlot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumDistanceForFoodDelivery": "Jarak maksimum untuk pengiriman makanan",
+  "@maximumDistanceForFoodDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocation": "Lokasi saat ini",
+  "@currentLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDeliveryMode": "Pilih mode pengiriman",
+  "@selectDeliveryMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpByYourself": "Ambil sendiri",
+  "@pickUpByYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryByRestaurant": "Pengiriman oleh Restoran",
+  "@deliveryByRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnableYourLocation": "Harap aktifkan lokasi Anda",
+  "@pleaseEnableYourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createYourOnlineStore": "Buat toko online Anda",
+  "@createYourOnlineStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "Restoran",
+  "@restaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "Semua",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startTime": "Waktu mulai",
+  "@startTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "endTime": "Akhir waktu",
+  "@endTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeMustBeSame": "Waktu harus sama",
+  "@timeMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTime": "Masukkan waktu yang valid",
+  "@enterValidTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "open24hours": "Buka 24 jam",
+  "@open24hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setLocation": "Tetapkan Lokasi",
+  "@setLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourLocation": "Lokasimu",
+  "@yourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityNotFound": "Lokasi tidak ditemukan",
+  "@localityNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "PERUBAHAN",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressNotFound": "Alamat tidak ditemukan",
+  "@addressNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectYourAddress": "Silakan pilih alamat Anda",
+  "@pleaseSelectYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLocation": "Konfirmasikan Lokasi",
+  "@confirmLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "storeDeliveryCharge": "Biaya Pengiriman Toko",
+  "@storeDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "freeDelivery": "Pengiriman gratis",
+  "@freeDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "addDeliveryCharge": "Tambahkan Biaya Pengiriman",
+  "@addDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "enterDeliveryCharge": "Masukkan Biaya Pengiriman",
+  "@enterDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "restaurantAvailability": "Ketersediaan restoran Anda",
+  "@restaurantAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "availabilityOfYourRestaurant": "Ketersediaan restoran Anda",
+  "@availabilityOfYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unlimited": "Tak terbatas",
+  "@unlimited": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "freee": "Gratis",
+  "@freee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge": "Biaya pengiriman",
+  "@shippingCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge2": "BIAYA PENGIRIMAN",
+  "@shippingCharge2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoice": "FAKTUR",
+  "@invoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "TANGGAL",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderNo": "NOMOR PESANAN.",
+  "@orderNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address2": "ALAMAT",
+  "@address2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name2": "NAMA",
+  "@name2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email2": "SUREL",
+  "@email2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "NOMOR TELEPON",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "SUB TOTAL",
+  "@subTotal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "JUMLAH TOTAL",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCompleted": "Tandai sebagai Selesai",
+  "@markAsCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCancelled": "Tandai sebagai Dibatalkan",
+  "@markAsCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsPending": "Tandai sebagai Menunggu Keputusan",
+  "@markAsPending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "NAMA PRODUK",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity2": "KUANTITAS",
+  "@quantity2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPrice": "TOTAL HARGA",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPixelId": "Masukkan id piksel yang valid",
+  "@enterValidPixelId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "analytics": "Analytics",
+  "@analytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceboolPixelAndGoogleAnalytics": "Facebook Pixel dan Google Analytics",
+  "@faceboolPixelAndGoogleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookPixel": "Facebook Pixel",
+  "@facebookPixel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKeyId": "Masukkan ID Kunci",
+  "@enterKeyId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getHelp": "Mendapatkan bantuan ?",
+  "@getHelp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleAnalytics": "Google Analytics",
+  "@googleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTrackingId": "Masukkan ID Pelacakan",
+  "@enterTrackingId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trialplan": "Percobaan",
+  "@trialplan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monthlyPlan": "Bulanan",
+  "@monthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyplan": "Tahunan",
+  "@yearlyplan": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

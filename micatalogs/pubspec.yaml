@@ -1,0 +1,92 @@
+name: micatalogs
+description: MiCatalogs Product Catalogs, Whatsapp Catalogs and Digital Catalogs Management App helps you to make quickly catalogs using your phone and share it on whatsapp and other social media with your buyers in minutes.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# ███╗░░░███╗██╗░█████╗░██████╗░░█████╗░  ░██████╗░█████╗░██╗░░░░░  #
+# ████╗░████║██║██╔══██╗██╔══██╗██╔══██╗  ██╔════╝██╔══██╗██║░░░░░  #
+# ██╔████╔██║██║██║░░╚═╝██████╔╝███████║  ╚█████╗░██║░░██║██║░░░░░  #
+# ██║╚██╔╝██║██║██║░░██╗██╔══██╗██╔══██║  ░╚═══██╗██║░░██║██║░░░░░  #
+# ██║░╚═╝░██║██║╚█████╔╝██║░░██║██║░░██║  ██████╔╝╚█████╔╝███████╗  #
+# ╚═╝░░░░░╚═╝╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝  ╚═════╝░░╚════╝░╚══════╝  #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # state-management library
+  mvc_pattern: ^6.6.3
+  # Network calls
+  http: ^0.12.2
+  # Local Storage
+  shared_preferences: ^0.5.12+4
+  # Device information
+  device_info: ^1.0.0
+  # Alert messages
+  fluttertoast: ^7.1.6
+  # Compare Instance of class
+  equatable: ^1.2.5
+  # Bloc library
+  flutter_bloc: ^6.1.0
+  # For translation
+  intl: ^0.16.1
+  # Provider
+  provider: ^4.3.2+2
+  # Translation
+  intl_translation: ^0.17.10+1
+  # Svg Image
+  flutter_svg: ^0.18.0
+  # For image crope
+  image_cropper: ^1.3.1
+  # Multi image picker
+  multi_image_picker: ^4.7.14
+  # Internet connection
+  data_connection_checker: ^0.3.4
+  # For multipart file api
+  dio: ^3.0.10
+  # For url launch
+  url_launcher: ^5.7.10
+  # For file path
+  path: ^1.6.4
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  # To add custom fonts to your application, add a fonts section here,
+  fonts:
+    - family: Galano
+      fonts:
+        - asset: fonts/galano/GlacialIndifference-Regular.otf
+        - asset: fonts/galano/GlacialIndifference-Bold.otf
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins/Poppins-Bold.ttf
+        - asset: fonts/Poppins/Poppins-SemiBold.ttf
+        - asset: fonts/Poppins/Poppins-Regular.ttf
+        - asset: fonts/Poppins/Poppins-Medium.ttf

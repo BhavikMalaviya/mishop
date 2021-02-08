@@ -1,0 +1,1950 @@
+{
+  "@@locale" :   "en" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "EN",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youMustEnterMobileNumber": "You must enter Mobile number",
+  "@youMustEnterMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeAtleast4Character": "Pin must be atleast 4 character",
+  "@pinMustBeAtleast4Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeSame": "Pin must be same",
+  "@pinMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinNotMatched": "Pin not matched",
+  "@pinNotMatched": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameMustBeAtleast3Character": "Name must be atleast 3 character",
+  "@nameMustBeAtleast3Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "Something went wrong",
+  "@somethingWentWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessName": "Business name",
+  "@businessName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pin": "Pin",
+  "@pin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "varificationCode": "Verification Code",
+  "@varificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTypeTheVerificationCodeSentTo": "Please type the verification code sent to",
+  "@plzTypeTheVerificationCodeSentTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontReceiveTheCode": "Don't receive the code ?",
+  "@dontReceiveTheCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNewPin": "Enter new pin",
+  "@enterNewPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPin": "Cofirm pin",
+  "@confirmPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First name",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last name",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "Phone No",
+  "@phoneNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "Product title",
+  "@productTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productPrice": "Product price",
+  "@productPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "No internet connection",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTurnOnInternetConnectionAndTryAgain": "Please turn on internet connection and try again.",
+  "@plzTurnOnInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgain": "Try again",
+  "@tryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sessionExpired": "Session Expired",
+  "@sessionExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourSessionIsExpired": "Your session is expired.",
+  "@yourSessionIsExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillBeRedirectedToTheLogin": "You will be redirected to the login.",
+  "@youWillBeRedirectedToTheLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toAccessThisFunctionality": "To access this functionality you need to purchase plans.",
+  "@toAccessThisFunctionality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgrade": "Upgrade",
+  "@upgrade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validationError": "Validation error !",
+  "@validationError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitApp": "Exit app ?",
+  "@exitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToExitApp": "Are you sure you want to exit application ?",
+  "@areYouSureWantToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "Are you sure you want to logout ?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeStatus": "Change Status",
+  "@changeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToChangeStatus": "Are you sure you want to change status ?",
+  "@areYouSureYouWantToChangeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intructions": "Instructions",
+  "@intructions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeSymbols": "Name should not include symbols like @#%...",
+  "@nameShouldNotIncludeSymbols": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanUseToSaperateWords": "You can use - or _ to saperate words.",
+  "@youCanUseToSaperateWords": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeCapitalLetters": "Name should not include capital letters.",
+  "@nameShouldNotIncludeCapitalLetters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCannotChangeDomainOnceYouCreated": "You cannot change domain name once you created.",
+  "@youCannotChangeDomainOnceYouCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageNotSelected": "Image not selected",
+  "@imageNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAtleastOneImage": "Please select atleast one image",
+  "@plzSelectAtleastOneImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorry": "Sorry !",
+  "@sorry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanNotSelectMoreThanImages": "You can not select more than 6 images",
+  "@youCanNotSelectMoreThanImages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogNotSelected": "Catalog not Selected",
+  "@catalogNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionAvailable": "New version available",
+  "@newVersionAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "Update",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNew": "What's New :",
+  "@whatsNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "terms & conditions.",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzAgreeWithTermsAndConditions": "Please Agree with terms & conditions.",
+  "@plzAgreeWithTermsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continu": "Continue",
+  "@continu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogTitle": "Catalog title",
+  "@catalogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalog": "Select Parent Catalog",
+  "@selectParentCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCatalog": "Select Catalog",
+  "@selectCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItMainCatalog": "Make it Main-Catalog",
+  "@makeItMainCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItSubCatalog": "Make it Sub-Catalog",
+  "@makeItSubCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Create",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalogFirst": "Select parent catalog first",
+  "@selectParentCatalogFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCannotBeImpty": "Field cannot be empty",
+  "@fieldCannotBeImpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteCatalog": "Confirm delete catalog",
+  "@confirmDeleteCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisCatalog": "Are you want to sure delete this catalog.",
+  "@areYouSureWantToDeleteThisCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "Confirm delete product",
+  "@confirmDeleteProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouWantToSureDeleteThisProduct": "Are you want to sure delete this product.",
+  "@areYouWantToSureDeleteThisProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataFound": "No data Found",
+  "@noDataFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRcode": "Scan QR code",
+  "@scanQRcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRgivenIn": "Scan QR given in web.micatalogs.com to access Admin panel",
+  "@scanQRgivenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "OR",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuewithGoogle": "Continue With Google",
+  "@continuewithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumber": "Enter number",
+  "@enterNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youNeedToFillDetailsFirst": "You need to fill details first",
+  "@youNeedToFillDetailsFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorryThisFeatureIsNotLongerAvailable": "Sorry this feature is not longer available",
+  "@sorryThisFeatureIsNotLongerAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzContinueWithGoogle": "Please ! Continue with google..",
+  "@plzContinueWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidNumber": "Invalid number",
+  "@invalidNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPin": "Reset Pin",
+  "@resetPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendVerificationCode": "Send verification Code",
+  "@sendVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontHaveAnAccount": "Don't have an account ?",
+  "@dontHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign-Up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetYourPin": "Forget your pin ? ",
+  "@forgetYourPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPinToProceedFurther": "Enter your pin to proceed further.",
+  "@enterYourPinToProceedFurther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPin": "Enter Pin",
+  "@enterPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidPin": "Please enter valid pin",
+  "@plzEnterValidPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPin": "New Pin",
+  "@newPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongVerificationCode": "Wrong verification code!",
+  "@wrongVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "Resend",
+  "@resend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "Verify",
+  "@verify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "domainName": "Domain name",
+  "@domainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessname": "business-name",
+  "@businessname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCategory": "Select category",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourCurrency": "Select your currency",
+  "@selectYourCurrency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectCategory": "Please select category",
+  "@plzSelectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappNumber": "Whatsapp Number",
+  "@whatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "Add Product",
+  "@addProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "images": "Images",
+  "@images": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizaAndColor": "Size and Color",
+  "@sizaAndColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "basicInfo": "Basic Info",
+  "@basicInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountPrice": "Discount price",
+  "@discountPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "Color",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorNameMustBeSame": "Color name must be same",
+  "@colorNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumOrderQty": "Minimum Order Quantity",
+  "@minimumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumOrderQty": "Maximum Order Quantity",
+  "@maximumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Size",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizeNameMustBeSame": "Size name must be same",
+  "@sizeNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stockAvailability": "Stock Availability",
+  "@stockAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "available": "Available",
+  "@available": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "outOfStock": "Out of Stock",
+  "@outOfStock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableQuantity": "Available Quantity",
+  "@availableQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setOrderQuantity": "Set Order Quantity",
+  "@setOrderQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showOfStockProductToCatalogV": "Show out of stock product to catalog visitor",
+  "@showOfStockProductToCatalogV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowVisitorsToPlaceAnOrderOn": "Allow visitors to place an order on your out of stock product",
+  "@allowVisitorsToPlaceAnOrderOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTagOnProduct": "Add Tag on Product",
+  "@addTagOnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "Featured Product",
+  "@featuredProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProduct": "New Product",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMinimunAndMaximunQty": "Enter valid Minimum & Maximum order qty.",
+  "@enterValidMinimunAndMaximunQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzPurchasePremiumPlan": "Please purchase premium plan",
+  "@plzPurchasePremiumPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "Share",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappShare": "Whatsapp Share",
+  "@whatsappShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Delete",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharePdf": "Share PDF",
+  "@sharePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFeatured": "Remove Featured",
+  "@removeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeFeatured": "Make Featured",
+  "@makeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogActions": "Catalog Actions",
+  "@catalogActions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogs": "Catalogs",
+  "@catalogs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Products",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchCatalog": "Search catalog",
+  "@searchCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "Search product",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "limitExceed": "Limit Exceed",
+  "@limitExceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featured": "Featured",
+  "@featured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "Edit Product",
+  "@editProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiries": "Inquiries",
+  "@inquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryDetails": "Inquiry details",
+  "@inquiryDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "Orders details",
+  "@orderDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPayment": "Total Payment",
+  "@totalPayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "Note",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "Pending",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "completed": "Completed",
+  "@completed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orders": "Orders",
+  "@orders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessDetails": "Business Details",
+  "@businessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customDomain": "Custom Domain",
+  "@customDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraNote": "Extra Note",
+  "@extraNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Details",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDomain": "Set Domain",
+  "@setDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseYearlyPlan": "If you will purchase yearly plan. you can set custom domain in",
+  "@ifYouWillPurchaseYearlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "free": " Free.",
+  "@free": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseMonthlyPlan": "If you will purchase monthly plan you need to pay extra",
+  "@ifYouWillPurchaseMonthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editDetails": "Edit Details",
+  "@editDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessTagLine": "Business Tag-line",
+  "@businessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessTagLine": "Show business Tag-line.",
+  "@showBusinessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "Account number",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifscCode": "IFSC code",
+  "@ifscCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gstinNumber": "GSTIN number",
+  "@gstinNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "Bank name",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAddress": "Bank address",
+  "@bankAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideBankDetailsFromCheckoutPage": "Hide bank details from checkout page",
+  "@hideBankDetailsFromCheckoutPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessLogoInsteadOfName": "Show business Logo instead of name.",
+  "@showBusinessLogoInsteadOfName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessEmail": "Business-Email",
+  "@businessEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessAddress": "Business address",
+  "@businessAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchase": "Purchase",
+  "@purchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentSuccessful": "Payment successful",
+  "@paymentSuccessful": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planHistory": "Plan history",
+  "@planHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plans": "Subscriptions",
+  "@plans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseCatalogAndProduct": "Increase catalog and product storage and get more features by purchasing plans.",
+  "@increaseCatalogAndProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "features": "Features",
+  "@features": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "Selected",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profile",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Languages",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgradeYourPlan": "Upgrade Your Plan",
+  "@upgradeYourPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "Support",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullUpLoad": "pull up load",
+  "@pullUpLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadFailedClickRetry": "Load Failed!Click retry!",
+  "@loadFailedClickRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "releaseToLoadMore": "release to load more",
+  "@releaseToLoadMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreData": "No more Data",
+  "@noMoreData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCount": "Order Count",
+  "@orderCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryCount": "Inquiry Count",
+  "@inquiryCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webAdmin": "Web Admin",
+  "@webAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "My Store",
+  "@myStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyUrl": "Copy url",
+  "@copyUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeUrlCopied": "Store url copied.",
+  "@storeUrlCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAtleastOneCatalog": "Create atleast one Catalog",
+  "@createAtleastOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareStore": "Share Store",
+  "@shareStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preview": "Preview",
+  "@preview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentDetails": "Payment details",
+  "@paymentDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "Company Name",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currency": "Currency",
+  "@currency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Select your language",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAnyOneCatalog": "Please select any one catalog",
+  "@plzSelectAnyOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidMobileNumber": "Please enter valid mobile number",
+  "@plzEnterValidMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "Enter valid Email",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzFillTheFollowingDetails": "Please fill the following details",
+  "@plzFillTheFollowingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidWhatsappNumber": "Enter valid Whatsapp number",
+  "@enterValidWhatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itIncludesSpecialCharacters": "It includes special characters",
+  "@itIncludesSpecialCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egSmall": "eg: Small",
+  "@egSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egRed": "eg: Red",
+  "@egRed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidQuantity": "Enter valid quantity",
+  "@enterValidQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDomainName": "Enter valid Domain name.",
+  "@enterValidDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tagLineMaxIn20Characters": "Tag line text max in 20 characters.",
+  "@tagLineMaxIn20Characters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Category",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditProfileDetails": "Show and edit your profile details",
+  "@showAndEditProfileDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditBusinessDetails": "Show and edit your business details",
+  "@showAndEditBusinessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptions": "Subscriptions",
+  "@subscriptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeOurPremiumPlanToGet": "Subscribe our premium plan to get more features",
+  "@subscribeOurPremiumPlanToGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Languages",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableInSixLanguages": "Available in multiple languages",
+  "@availableInSixLanguages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPaymentMethodsForYourShop": "Set payment methods for your shop",
+  "@setPaymentMethodsForYourShop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setYourOwnDomainName": "Set your own domain name",
+  "@setYourOwnDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInstantSupportFromTeam": "Get instant support from MiCatalogs team",
+  "@getInstantSupportFromTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutYourAcc": "Logout your account",
+  "@logoutYourAcc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "Payment Methods",
+  "@paymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPaymentMethods": "Select Payment Method",
+  "@selectPaymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cod": "Cash On Delivery",
+  "@cod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active": "Active",
+  "@active": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deactive": "Deactive",
+  "@deactive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisMethod": "Are you sure want to delete this method ?",
+  "@areYouSureWantToDeleteThisMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectPaymentMethod": "Please select payment method",
+  "@plzSelectPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentKeys": "Payment keys",
+  "@paymentKeys": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourPaymentMethod": "Select your payment method",
+  "@selectYourPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicKey": "Public Key",
+  "@publicKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privateKey": "Private Key",
+  "@privateKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendRequest": "Send Request",
+  "@sendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted": "Accepted",
+  "@accepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packingAndShippingOptinal": "Packing & Shipping(optional)",
+  "@packingAndShippingOptinal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimatedDeliveryDate": "Estimated delivery date",
+  "@estimatedDeliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Done",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeReason": "Write reason",
+  "@writeReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inProcess": "In Process",
+  "@inProcess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingDetails": "Shipping Details",
+  "@shippingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTrackingLink": "Order tracking link",
+  "@orderTrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entertrackingLink": "Enter tracking link",
+  "@entertrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCancellationReason": "Order cancellation reason",
+  "@orderCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLink": "Enter valid link",
+  "@enterValidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "Select country",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectState": "Select state",
+  "@selectState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCity": "Select city",
+  "@selectCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webStoreLang": "Web store language",
+  "@webStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectStoreLang": "Select store language",
+  "@selectStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customers": "Customers",
+  "@customers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingTime": "Remaining Time",
+  "@remainingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "Days",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPlan": "Current Plan",
+  "@currentPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planExtension": "Plan Extension",
+  "@planExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "convertYourplanMonthlyToYearly": "Convert your plan monthly to yearly",
+  "@convertYourplanMonthlyToYearly": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewUsOnPlayStore": "Review us on play store",
+  "@reviewUsOnPlayStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Expiry Date",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeNow": "Subscribe Now",
+  "@subscribeNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateAndReview": "Rate & Review",
+  "@rateAndReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteInquiries": "Delete Inquiries",
+  "@deleteInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisInquiries": "Are you sure want to delete this inquiries?",
+  "@areYouSureWantToDeleteThisInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manufacturer": "Manufacturer",
+  "@manufacturer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wholesaler": "Wholesaler",
+  "@wholesaler": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distributor": "Distributor",
+  "@distributor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exporter": "Exporter",
+  "@exporter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reseller": "Reseller",
+  "@reseller": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agent": "Agent",
+  "@agent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referAndEarn": "Refer & Earn",
+  "@referAndEarn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referYourFriendsAndEarnExtraRewards": "Refer your friends and earn extra rewards.",
+  "@referYourFriendsAndEarnExtraRewards": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareYourReferralCodeWithYourFriends": "Share your referral code with your friends.",
+  "@shareYourReferralCodeWithYourFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referralCode": "Referral Code:",
+  "@referralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyCopied": "Sucessfully Copied",
+  "@successfullyCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareWithWhatsapp": "Share with Whatsapp",
+  "@shareWithWhatsapp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referOneYearlySubscriptionAnd": "Refer 1 yearly subscripiton and get 3 months extension.",
+  "@referOneYearlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referThreeMonthlySubscriptionAnd": "Refer 3 monthly subscription and get 1 month extension.",
+  "@referThreeMonthlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerWithReferralCodeAnd": "Register with referral code and get 2 month extra on yearly subscription.",
+  "@registerWithReferralCodeAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouHaveAnyReferralCode?": "Dou you have referral code?",
+  "@doYouHaveAnyReferralCode?": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterReferralCode": "Enter referral code",
+  "@enterReferralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeBanners": "Store Banners",
+  "@storeBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditYourStoreBanners": "Show and edit your store banners",
+  "@showAndEditYourStoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigationLink": "Navigation link",
+  "@navigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCantUploadMoreBanners": "You can't upload more banners",
+  "@youCantUploadMoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editBanner": "Edit Banner",
+  "@editBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteBanner": "Delete Banner",
+  "@deleteBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerRemoveMsg": "Are you sure want to remove this banner from your web store",
+  "@bannerRemoveMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addImage": "Add Image",
+  "@addImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addBanner": "Add Banner",
+  "@addBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterBannerNavigationLink": "Enter banner navigation link",
+  "@enterBannerNavigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectTheBannerImage": "Please select the banner image",
+  "@plzSelectTheBannerImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trial": "Trial",
+  "@trial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "premium": "Premium",
+  "@premium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotAvailable": "Email not available",
+  "@emailNotAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkOutMyStore": "Check out my store",
+  "@checkOutMyStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerSizeMustBeInpx": "Your banner size must be in 1920px x 500px.",
+  "@bannerSizeMustBeInpx": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createMenu": "Create Menu",
+  "@createMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourCuisineTypes": "Enter your Cuisine Types",
+  "@enterYourCuisineTypes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exSouthIndianEtc": "Ex.South Indian, etc.",
+  "@exSouthIndianEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourDishName": "Enter your Dish Name",
+  "@enterYourDishName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exMasalaDhosaEtc": "Ex.Masala Dhosa, etc.",
+  "@exMasalaDhosaEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDishDescription": "Enter Dish Description",
+  "@enterDishDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPrice": "Enter Price",
+  "@enterPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs200etc": "Ex.Rs220, etc.",
+  "@exRs200etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountedPrice": "Discounted Price",
+  "@discountedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs199etc": "Ex.Rs199, etc.",
+  "@exRs199etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createTags": "Create Tags",
+  "@createTags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTagName": "Enter tag name",
+  "@enterTagName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addRestaurant": "Add Restaurant",
+  "@addRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLogo": "Add Logo",
+  "@addLogo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereIsYourRestaurant": "Where is your restaurant?",
+  "@whereIsYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourAddress": "Enter your address",
+  "@enterYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whichTypeOfRestaurant": "Which type of restaurant?",
+  "@whichTypeOfRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegetarian": "Vegetarian",
+  "@vegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nonVegetarian": "Non Vegetarian",
+  "@nonVegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "both": "Both",
+  "@both": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "NEXT",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "Change Address",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterRestaurantAddress": "Enter Restaurant Address",
+  "@enterRestaurantAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityName": "Locality Name",
+  "@localityName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidAddressField": "Enter valid address field",
+  "@enterValidAddressField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLocalityField": "Enter valid locality field",
+  "@enterValidLocalityField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDishes": "All Dishes",
+  "@allDishes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDish": "Add Dish",
+  "@addDish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "OFF",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availability": "Availability",
+  "@availability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inWhichDaysWillYourRestaurantContinue": "In which days will your restaurant continue?",
+  "@inWhichDaysWillYourRestaurantContinue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDays": "All Days",
+  "@allDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDays": "Select Days",
+  "@selectDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setTimeSlot": "Set time slot",
+  "@setTimeSlot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumDistanceForFoodDelivery": "Maximum distance for food delivery",
+  "@maximumDistanceForFoodDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocation": "Current Location",
+  "@currentLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDeliveryMode": "Select delivery mode",
+  "@selectDeliveryMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpByYourself": "Pick up by yourself",
+  "@pickUpByYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryByRestaurant": "Delivery by Restaurant",
+  "@deliveryByRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnableYourLocation": "Please enable your location",
+  "@pleaseEnableYourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createYourOnlineStore": "Create your online store",
+  "@createYourOnlineStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "Restaurant",
+  "@restaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "All",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startTime": "Start Time",
+  "@startTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "endTime": "End Time",
+  "@endTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeMustBeSame": "Time must be same",
+  "@timeMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTime": "Enter valid time",
+  "@enterValidTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "open24hours": "Open 24 hours",
+  "@open24hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setLocation": "Set Location",
+  "@setLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourLocation": "Your location",
+  "@yourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityNotFound": "Locality not found",
+  "@localityNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "CHANGE",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressNotFound": "Address not found",
+  "@addressNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectYourAddress": "Please select your address",
+  "@pleaseSelectYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLocation": "Confirm Location",
+  "@confirmLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "storeDeliveryCharge": "Store Delivery Charge",
+  "@storeDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "freeDelivery": "Free delivery",
+  "@freeDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "addDeliveryCharge": "Add Delivery Charge",
+  "@addDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "enterDeliveryCharge": "Enter Delivery Charge",
+  "@enterDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "restaurantAvailability": "Restaurant Availability",
+  "@restaurantAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "availabilityOfYourRestaurant": "Availability of your restaurant",
+  "@availabilityOfYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unlimited": "Unlimited",
+  "@unlimited": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "freee": "Free",
+  "@freee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge": "Shipping Charge",
+  "@shippingCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge2": "SHIPPING CHARGE",
+  "@shippingCharge2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoice": "INVOICE",
+  "@invoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "DATE",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderNo": "ORDER NO.",
+  "@orderNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address2": "ADDRESS",
+  "@address2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name2": "NAME",
+  "@name2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email2": "EMAIL",
+  "@email2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "PHONE NUMBER",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "SUB TOTAL",
+  "@subTotal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "TOTAL AMOUNT",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCompleted": "Mark as Completed",
+  "@markAsCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCancelled": "Mark as Cancelled",
+  "@markAsCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsPending": "Mark as Pending",
+  "@markAsPending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "PRODUCT NAME",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity2": "QUANTITY",
+  "@quantity2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPrice": "TOTAL PRICE",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPixelId": "Enter valid pixel id",
+  "@enterValidPixelId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "analytics": "Analytics",
+  "@analytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceboolPixelAndGoogleAnalytics": "Facebook Pixel and Google Analytics",
+  "@faceboolPixelAndGoogleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookPixel": "Facebook Pixel",
+  "@facebookPixel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKeyId": "Enter Key ID",
+  "@enterKeyId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getHelp": "Get Help ?",
+  "@getHelp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleAnalytics": "Google Analytics",
+  "@googleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTrackingId": "Enter Tracking ID",
+  "@enterTrackingId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trialplan": "Trial",
+  "@trialplan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monthlyPlan": "Monthly",
+  "@monthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyplan": "Yearly",
+  "@yearlyplan": {
+    "type": "text",
+    "placeholders": {}
+  }
+  
+}

@@ -1,0 +1,1949 @@
+{
+  "@@locale" :   "gu" ,
+  "@@last_modified": "2018-05-20T17:16:46.997414",
+  "localeCode": "GU",
+  "@localeCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youMustEnterMobileNumber": "તમારે મોબાઇલ નંબર દાખલ કરવો આવશ્યક છે",
+  "@youMustEnterMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeAtleast4Character": "પિન 4 અક્ષરનો હોવો આવશ્યક છે",
+  "@pinMustBeAtleast4Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinMustBeSame": "પિન સરખા છે",
+  "@pinMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinNotMatched": "પિન સરખા નથી",
+  "@pinNotMatched": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameMustBeAtleast3Character": "નામ ઓછામાં ઓછું 3 અક્ષરનું હોવું જોઈએ",
+  "@nameMustBeAtleast3Character": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "somethingWentWrong": "કંઈક ખોટું થયું",
+  "@somethingWentWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessName": "વ્યવસાયનું નામ",
+  "@businessName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pin": "પિન",
+  "@pin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "varificationCode": "ચકાસણી સંજ્ઞા",
+  "@varificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTypeTheVerificationCodeSentTo": "કૃપા કરીને મોકલેલો ચકાસણી કોડ લખો",
+  "@plzTypeTheVerificationCodeSentTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontReceiveTheCode": "કોડ પ્રાપ્ત થતો નથી?",
+  "@dontReceiveTheCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNewPin": "નવી પિન દાખલ કરો",
+  "@enterNewPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPin": "પિનની પુષ્ટિ કરો",
+  "@confirmPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "પ્રથમ નામ",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "છેલ્લું નામ",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "ઇમેઇલ",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNo": "ફોન નંબર",
+  "@phoneNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "સરનામું",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "ઉત્પાદન શીર્ષક",
+  "@productTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productPrice": "ઉત્પાદન કિંમત",
+  "@productPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "વર્ણન",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "ઇન્ટરનેટ કનેક્શન નથી",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzTurnOnInternetConnectionAndTryAgain": "કૃપા કરીને ઇન્ટરનેટ કનેક્શન ચાલુ કરો અને ફરીથી પ્રયાસ કરો.",
+  "@plzTurnOnInternetConnectionAndTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgain": "ફરીથી પ્રયત્ન કરો",
+  "@tryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sessionExpired": "સત્ર સમાપ્ત થઈ",
+  "@sessionExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourSessionIsExpired": "તમારું સત્ર સમાપ્ત થયું છે.",
+  "@yourSessionIsExpired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillBeRedirectedToTheLogin": "તમને લોગિન પર રીડાયરેક્ટ કરવામાં આવશે.",
+  "@youWillBeRedirectedToTheLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "ઓકે",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toAccessThisFunctionality": "આ વિધેયને અક્સેસ કરવા માટે તમારે યોજનાની ખરીદી કરવાની જરૂર છે.",
+  "@toAccessThisFunctionality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgrade": "અપગ્રેડ કરો",
+  "@upgrade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validationError": "માન્યતા ભૂલ!",
+  "@validationError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitApp": "એપ્લિકેશનમાંથી બહાર નીકળો?",
+  "@exitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToExitApp": "શું તમે ખરેખર એપ્લિકેશનમાંથી બહાર નીકળવા માંગો છો?",
+  "@areYouSureWantToExitApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "ના",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "હા",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToLogout": "શું તમે ખરેખર લોગઆઉટ કરવા માંગો છો?",
+  "@areYouSureWantToLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeStatus": "સ્થિતિ બદલો",
+  "@changeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToChangeStatus": "શું તમે ખરેખર સ્થિતિ બદલવા માંગો છો?",
+  "@areYouSureYouWantToChangeStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intructions": "સૂચનાઓ",
+  "@intructions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeSymbols": "નામમાં @ #% જેવા પ્રતીકો શામેલ ન હોવા જોઈએ ...",
+  "@nameShouldNotIncludeSymbols": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanUseToSaperateWords": "તમે - અથવા _ અલગ શબ્દો વાપરવા માટે વાપરી શકો છો.",
+  "@youCanUseToSaperateWords": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameShouldNotIncludeCapitalLetters": "નામમાં મોટા અક્ષરો શામેલ ન હોવા જોઈએ.",
+  "@nameShouldNotIncludeCapitalLetters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCannotChangeDomainOnceYouCreated": "એકવાર તમે બનાવ્યા પછી તમે ડોમેન નામ બદલી શકતા નથી.",
+  "@youCannotChangeDomainOnceYouCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageNotSelected": "છબી પસંદ નથી",
+  "@imageNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAtleastOneImage": "કૃપા કરીને ઓછામાં ઓછી એક છબી પસંદ કરો",
+  "@plzSelectAtleastOneImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorry": "માફ કરશો!",
+  "@sorry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanNotSelectMoreThanImages": "તમે 6 કરતા વધુ છબીઓ પસંદ કરી શકતા નથી",
+  "@youCanNotSelectMoreThanImages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogNotSelected": "કેટલોગ પસંદ કરેલ નથી",
+  "@catalogNotSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newVersionAvailable": "નવું સંસ્કરણ ઉપલબ્ધ છે",
+  "@newVersionAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "update": "અપડેટ",
+  "@update": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "ગોપનીયતા નીતિ",
+  "@privacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsNew": "નવું શું છે :",
+  "@whatsNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "શરતો અને નિયમો.",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzAgreeWithTermsAndConditions": "કૃપા કરીને નિયમો અને શરતો સાથે સંમત થાઓ.",
+  "@plzAgreeWithTermsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continu": "ચાલુ રાખો",
+  "@continu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "લોડ કરી રહ્યું છે",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogTitle": "કેટલોગ શીર્ષક",
+  "@catalogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalog": "પેરેંટ કેટલોગ પસંદ કરો",
+  "@selectParentCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCatalog": "કેટલોગ પસંદ કરો",
+  "@selectCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItMainCatalog": "તેને મુખ્ય કેટલોગ બનાવો",
+  "@makeItMainCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeItSubCatalog": "તેને સબ કેટલોગ બનાવો",
+  "@makeItSubCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "બનાવો",
+  "@create": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectParentCatalogFirst": "પ્રથમ પિતૃ સૂચિ પસંદ કરો",
+  "@selectParentCatalogFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCannotBeImpty": "ક્ષેત્ર ખાલી હોઈ શકતું નથી",
+  "@fieldCannotBeImpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteCatalog": "સૂચિ કાઢી નાખવાની પુષ્ટિ કરો",
+  "@confirmDeleteCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisCatalog": "શું તમે ખાતરી કરો કે આ સૂચિ કાઢી નાખવા માંગો છો?",
+  "@areYouSureWantToDeleteThisCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "ઉત્પાદનને કાઢી નાખવાની પુષ્ટિ કરો",
+  "@confirmDeleteProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouWantToSureDeleteThisProduct": "શું તમે ખરેખર આ ઉત્પાદનને કાઢી નાખવા માંગો છો?",
+  "@areYouWantToSureDeleteThisProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataFound": "કોઈ ડેટા મળ્યો નથી",
+  "@noDataFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRcode": "QR કોડ સ્કેન કરો",
+  "@scanQRcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "scanQRgivenIn": "એડમિન પેનલને અક્સેસ કરવા માટે web.mictalogs.com પર આપેલ ક્યૂઆર સ્કેન કરો",
+  "@scanQRgivenIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "અથવા",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuewithGoogle": "ગૂગલ સાથે ચાલુ રાખો",
+  "@continuewithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumber": "નંબર દાખલ કરો",
+  "@enterNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youNeedToFillDetailsFirst": "તમારે પહેલાં વિગતો ભરવાની જરૂર છે",
+  "@youNeedToFillDetailsFirst": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sorryThisFeatureIsNotLongerAvailable": "માફ કરશો આ સુવિધા હવે ઉપલબ્ધ નથી",
+  "@sorryThisFeatureIsNotLongerAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzContinueWithGoogle": "મહેરબાની કરીને! ગૂગલ સાથે ચાલુ રાખો ..",
+  "@plzContinueWithGoogle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidNumber": "અમાન્ય નંબર",
+  "@invalidNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPin": "પિન ફરીથી સેટ કરો",
+  "@resetPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendVerificationCode": "ચકાસણી કોડ મોકલો",
+  "@sendVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontHaveAnAccount": "તમારું ખાતું નથી?",
+  "@dontHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "સાઇન અપ કરો",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgetYourPin": "તમારો પિન ચેન્જ કરો ? ",
+  "@forgetYourPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "લોગ ઇન કરો",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourPinToProceedFurther": "આગળ વધવા માટે તમારી પિન દાખલ કરો.",
+  "@enterYourPinToProceedFurther": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPin": "પિન દાખલ કરો",
+  "@enterPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidPin": "કૃપા કરી માન્ય પિન દાખલ કરો",
+  "@plzEnterValidPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPin": "નવી પિન",
+  "@newPin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrongVerificationCode": "ખોટો ચકાસણી કોડ!",
+  "@wrongVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "ફરીથી મોકલો",
+  "@resend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "ચકાસો",
+  "@verify": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "domainName": "ડોમેન નામ",
+  "@domainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessname": "વ્યવસાય નામ",
+  "@businessname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCategory": "કેટેગરી પસંદ કરો",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourCurrency": "ચલણ પસંદ કરો",
+  "@selectYourCurrency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectCategory": "કૃપા કરી કેટેગરી પસંદ કરો",
+  "@plzSelectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappNumber": "વોટ્સએપ નંબર",
+  "@whatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "ઉત્પાદન ઉમેરો",
+  "@addProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "સાચવો",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "images": "છબીઓ",
+  "@images": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizaAndColor": "કદ અને રંગ",
+  "@sizaAndColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "basicInfo": "મૂળભૂત માહિતી",
+  "@basicInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountPrice": "ડિસ્કાઉન્ટ ભાવ",
+  "@discountPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "color": "રંગ",
+  "@color": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colorNameMustBeSame": "રંગ નામ સમાન છે",
+  "@colorNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumOrderQty": "ન્યૂનતમ ઓર્ડરની માત્રા",
+  "@minimumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumOrderQty": "મહત્તમ ઓર્ડરની માત્રા",
+  "@maximumOrderQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "કદ",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizeNameMustBeSame": "કદનું નામ સમાન છે",
+  "@sizeNameMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stockAvailability": "સ્ટોક ઉપલબ્ધતા",
+  "@stockAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "available": "ઉપલબ્ધ",
+  "@available": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "outOfStock": "સ્ટોક આઉટ",
+  "@outOfStock": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableQuantity": "ઉપલબ્ધ માત્રા",
+  "@availableQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity": "માત્રા",
+  "@quantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setOrderQuantity": "ઓર્ડરની માત્રા સેટ કરો",
+  "@setOrderQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showOfStockProductToCatalogV": "કેટલોગ મુલાકાતીને સ્ટોકની બહાર ઉત્પાદન બતાવો",
+  "@showOfStockProductToCatalogV": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allowVisitorsToPlaceAnOrderOn": "મુલાકાતીઓને તમારા out of stock પર ઓર્ડર આપવાની મંજૂરી આપો",
+  "@allowVisitorsToPlaceAnOrderOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addTagOnProduct": "ઉત્પાદન પર Tag ઉમેરો",
+  "@addTagOnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "ફીચર્ડ પ્રોડક્ટ",
+  "@featuredProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newProduct": "નવું ઉત્પાદન",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidMinimunAndMaximunQty": "માન્ય ન્યૂનતમ અને મહત્તમ ઓર્ડર જથ્થો દાખલ કરો.",
+  "@enterValidMinimunAndMaximunQty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzPurchasePremiumPlan": "કૃપા કરીને પ્રીમિયમ યોજના ખરીદો",
+  "@plzPurchasePremiumPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "સંપાદિત કરો",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "શેર કરો",
+  "@share": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsappShare": "વોટ્સએપ શેર",
+  "@whatsappShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "કાઢી નાખો",
+  "@delete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sharePdf": "PDF શેર કરો",
+  "@sharePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeFeatured": "ફીચર્ડ રદ કરો",
+  "@removeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeFeatured": "ફીચર્ડ બનાવો",
+  "@makeFeatured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogActions": "કેટલોગ ક્રિયાઓ",
+  "@catalogActions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "catalogs": "કેટલોગ",
+  "@catalogs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "ઉત્પાદનો",
+  "@products": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "શોધો",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchCatalog": "સૂચિ શોધો",
+  "@searchCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchProduct": "ઉત્પાદન શોધો",
+  "@searchProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "limitExceed": "મર્યાદા ઓળંગાઈ ગઈ",
+  "@limitExceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "featured": "ફીચર્ડ",
+  "@featured": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "ઉત્પાદન સંપાદિત કરો",
+  "@editProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiries": "પૂછપરછ",
+  "@inquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryDetails": "પૂછપરછની વિગતો",
+  "@inquiryDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "સંદેશ",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderDetails": "ઓર્ડર વિગતો",
+  "@orderDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPayment": "કુલ ચુકવણી",
+  "@totalPayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "note": "નોંધ",
+  "@note": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pending": "બાકી",
+  "@pending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "completed": "પૂર્ણ",
+  "@completed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "રદ કર્યું",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orders": "ઓર્ડર",
+  "@orders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessDetails": "વ્યાપાર વિગતો",
+  "@businessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customDomain": "કસ્ટમ ડોમેન",
+  "@customDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "extraNote": "વિશેષ નોંધ",
+  "@extraNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "વિગતો",
+  "@details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setDomain": "ડોમેન સેટ કરો",
+  "@setDomain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseYearlyPlan": "જો તમે વાર્ષિક યોજના ખરીદશો. તમે મફત કસ્ટમ ડોમેન સેટ કરી શકો છો.",
+  "@ifYouWillPurchaseYearlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "free": " ",
+  "@free": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouWillPurchaseMonthlyPlan": "જો તમે માસિક યોજના ખરીદશો તો તમારે વધારે ચૂકવણી કરવાની જરૂર છે",
+  "@ifYouWillPurchaseMonthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editDetails": "સંપાદન વિગતો",
+  "@editDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessTagLine": "વ્યવસાય tag-line",
+  "@businessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessTagLine": "વ્યવસાય tag-line બતાવો.",
+  "@showBusinessTagLine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNumber": "ખાતા નંબર",
+  "@accountNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifscCode": "IFSC કોડ",
+  "@ifscCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gstinNumber": "GSTIN નંબર",
+  "@gstinNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankName": "બેંકનું નામ",
+  "@bankName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bankAddress": "બેંક સરનામું",
+  "@bankAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hideBankDetailsFromCheckoutPage": "ચેકઆઉટ પૃષ્ઠથી બેંક વિગતો છુપાવો",
+  "@hideBankDetailsFromCheckoutPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBusinessLogoInsteadOfName": "નામને બદલે વ્યવસાયિક લોગો બતાવો.",
+  "@showBusinessLogoInsteadOfName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessEmail": "વ્યવસાય-ઇમેઇલ",
+  "@businessEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "businessAddress": "વ્યવસાયનું સરનામું",
+  "@businessAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProfile": "પ્રોફાઇલ સંપાદિત કરો",
+  "@editProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "purchase": "ખરીદી",
+  "@purchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentSuccessful": "ચુકવણી સફળ",
+  "@paymentSuccessful": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planHistory": "યોજનાનો ઇતિહાસ",
+  "@planHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plans": "યોજનાઓ",
+  "@plans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseCatalogAndProduct": "કેટેલોગ અને ઉત્પાદન સંગ્રહમાં વધારો અને યોજનાઓની ખરીદી કરીને વધુ સુવિધાઓ મેળવો.",
+  "@increaseCatalogAndProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "features": "વિશેષતા",
+  "@features": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selected": "પસંદ કરેલ",
+  "@selected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "સેટિંગ્સ",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "પ્રોફાઇલ",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "ભાષા",
+  "@language": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "upgradeYourPlan": "તમારી યોજના અપગ્રેડ કરો",
+  "@upgradeYourPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "સમર્થન",
+  "@support": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "લૉગ આઉટ",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pullUpLoad": "ભાર ખેંચો",
+  "@pullUpLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadFailedClickRetry": "લોડ નિષ્ફળ થયું! ફરી પ્રયાસ કરો ક્લિક કરો!",
+  "@loadFailedClickRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "releaseToLoadMore": "વધુ લોડ કરવા માટે મુક્ત કરો",
+  "@releaseToLoadMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreData": "કોઈ વધુ માહિતી નથી",
+  "@noMoreData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCount": "ઓર્ડર ગણતરી",
+  "@orderCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inquiryCount": "પૂછપરછની ગણતરી",
+  "@inquiryCount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webAdmin": "વેબ એડમિન",
+  "@webAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "મારો સ્ટોર",
+  "@myStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyUrl": "કોપી url",
+  "@copyUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeUrlCopied": "સ્ટોર url ની કોપી કરી.",
+  "@storeUrlCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAtleastOneCatalog": "ઓછામાં ઓછું એક કેટલોગ બનાવો",
+  "@createAtleastOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareStore": "શેર સ્ટોર",
+  "@shareStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preview": "પૂર્વાવલોકન",
+  "@preview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentDetails": "ચુકવણીની વિગતો",
+  "@paymentDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "companyName": "કંપની નું નામ",
+  "@companyName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currency": "ચલણ",
+  "@currency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "તમારી ભાષા પસંદ કરો",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "ભૂલ",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectAnyOneCatalog": "કૃપા કરી કોઈ એક સૂચિ પસંદ કરો",
+  "@plzSelectAnyOneCatalog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzEnterValidMobileNumber": "કૃપા કરી માન્ય મોબાઇલ નંબર દાખલ કરો",
+  "@plzEnterValidMobileNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidEmail": "માન્ય ઇમેઇલ દાખલ કરો",
+  "@enterValidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzFillTheFollowingDetails": "કૃપા કરીને નીચેની વિગતો ભરો",
+  "@plzFillTheFollowingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidWhatsappNumber": "માન્ય વોટ્સએપ નંબર દાખલ કરો",
+  "@enterValidWhatsappNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itIncludesSpecialCharacters": "તેમાં વિશેષ પાત્રો શામેલ છે",
+  "@itIncludesSpecialCharacters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egSmall": "દા.ત.: નાનું",
+  "@egSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "egRed": "દા.ત.: લાલ",
+  "@egRed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidQuantity": "માન્ય જથ્થો દાખલ કરો",
+  "@enterValidQuantity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidDomainName": "માન્ય ડોમેન નામ દાખલ કરો.",
+  "@enterValidDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tagLineMaxIn20Characters": "મહત્તમ 20 અક્ષરોમાં ટેગ લાઇન ટેક્સ્ટ.",
+  "@tagLineMaxIn20Characters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "કેટેગરી",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditProfileDetails": "તમારી પ્રોફાઇલ વિગતો અને તેને સંપાદિત કરો",
+  "@showAndEditProfileDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditBusinessDetails": "તમારી બિઝનેસ વિગતો અને તેને સંપાદિત કરો",
+  "@showAndEditBusinessDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscriptions": "સબસ્ક્રિપ્શન્સ",
+  "@subscriptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeOurPremiumPlanToGet": "વધુ સુવિધાઓ મેળવવા માટે અમારી પ્રીમિયમ યોજનાને સબ્સ્ક્રાઇબ કરો",
+  "@subscribeOurPremiumPlanToGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "ભાષાઓ",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availableInSixLanguages": "વધુ ભાષાઓમાં ઉપલબ્ધ છે",
+  "@availableInSixLanguages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "ચુકવણી પદ્ધતિ",
+  "@paymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setPaymentMethodsForYourShop": "તમારી શોપ માટે ચુકવણી પદ્ધતિઓ સેટ કરો",
+  "@setPaymentMethodsForYourShop": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setYourOwnDomainName": "તમારું પોતાનું ડોમેન નામ સેટ કરો",
+  "@setYourOwnDomainName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getInstantSupportFromTeam": "MiCatalogs ટીમ તરફથી ત્વરિત સપોર્ટ મેળવો",
+  "@getInstantSupportFromTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutYourAcc": "તમારા એકાઉન્ટને Logout કરો",
+  "@logoutYourAcc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "ચુકવણીની પદ્ધતિઓ",
+  "@paymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPaymentMethods": "ચુકવણીની પદ્ધતિ પસંદ કરો",
+  "@selectPaymentMethods": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cod": "કેશ ઓન ડિલિવરી",
+  "@cod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "active": "સક્રિય",
+  "@active": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deactive": "નિષ્ક્રિય",
+  "@deactive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisMethod": "શું તમે ખરેખર આ પદ્ધતિ કાઢી નાખવા માંગો છો?",
+  "@areYouSureWantToDeleteThisMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectPaymentMethod": "કૃપા કરીને તમારી ચુકવણીની પદ્ધતિ પસંદ કરો",
+  "@plzSelectPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentKeys": "ચુકવણી કીઓ",
+  "@paymentKeys": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourPaymentMethod": "તમારી ચુકવણીની પદ્ધતિ પસંદ કરો",
+  "@selectYourPaymentMethod": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publicKey": "જાહેર કી",
+  "@publicKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privateKey": "ખાનગી કી",
+  "@privateKey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendRequest": "વિનંતી મોકલો",
+  "@sendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accepted": "સ્વીકાર કરો",
+  "@accepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packingAndShippingOptinal": "પેકિંગ અને શિપિંગ (વૈકલ્પિક)",
+  "@packingAndShippingOptinal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "estimatedDeliveryDate": "અંદાજિત ડિલીવરી તારીખ",
+  "@estimatedDeliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "તારીખ પસંદ કરો",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "સબમિટ",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeReason": "કારણ લખો",
+  "@writeReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inProcess": "પ્રક્રિયામાં",
+  "@inProcess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingDetails": "શીપીંગ વિગતો",
+  "@shippingDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTrackingLink": "ઓર્ડર ટ્રેકિંગ લિંક",
+  "@orderTrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "entertrackingLink": "ટ્રેકિંગ લિંક દાખલ કરો",
+  "@entertrackingLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderCancellationReason": "ઓર્ડર રદ કારણ",
+  "@orderCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLink": "માન્ય લિંક દાખલ કરો",
+  "@enterValidLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCountry": "દેશ પસંદ કરો",
+  "@selectCountry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectState": "રાજ્ય પસંદ કરો",
+  "@selectState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectCity": "સિટી પસંદ કરો",
+  "@selectCity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "webStoreLang": "વેબ સ્ટોર ભાષા",
+  "@webStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectStoreLang": "સ્ટોર ભાષા પસંદ કરો",
+  "@selectStoreLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customers": "ગ્રાહકો",
+  "@customers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "remainingTime": "બાકી સમય",
+  "@remainingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "days": "દિવસ",
+  "@days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPlan": "વર્તમાન યોજના",
+  "@currentPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "planExtension": "યોજના વિસ્તરણ",
+  "@planExtension": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "convertYourplanMonthlyToYearly": "તમારી યોજનાને માસિકથી વાર્ષિકમાં રૂપાંતરિત કરો",
+  "@convertYourplanMonthlyToYearly": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewUsOnPlayStore": "પ્લે સ્ટોર પર અમારી સમીક્ષા કરો",
+  "@reviewUsOnPlayStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "સમાપ્તિ તારીખ",
+  "@expiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribeNow": "સબ્સ્ક્રાઇબ કરો",
+  "@subscribeNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateAndReview": "રેટ અને સમીક્ષા",
+  "@rateAndReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteInquiries": "પૂછપરછો કાઢી નાંખો",
+  "@deleteInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureWantToDeleteThisInquiries": "શું તમે ખરેખર આ પૂછપરછોને કાઢી નાખવા માંગો છો?",
+  "@areYouSureWantToDeleteThisInquiries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "manufacturer": "ઉત્પાદક",
+  "@manufacturer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wholesaler": "જથ્થાબંધ વેપારી",
+  "@wholesaler": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distributor": "વિતરક",
+  "@distributor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exporter": "નિકાસકાર",
+  "@exporter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reseller": "પુનર્વિક્રેતા",
+  "@reseller": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agent": "એજન્ટ",
+  "@agent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referAndEarn": "સંદર્ભ લો અને કમાઓ",
+  "@referAndEarn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referYourFriendsAndEarnExtraRewards": "તમારા મિત્રોનો સંદર્ભ લો અને વધારાના ઇનામ મેળવો.",
+  "@referYourFriendsAndEarnExtraRewards": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareYourReferralCodeWithYourFriends": "તમારા રેફરલ કોડને તમારા મિત્રો સાથે શેર કરો.",
+  "@shareYourReferralCodeWithYourFriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referralCode": "રેફરલ કોડ:",
+  "@referralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyCopied": "સફળતાપૂર્વક કiedપિ થયેલ",
+  "@successfullyCopied": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareWithWhatsapp": "વોટ્સએપ સાથે શેર કરો",
+  "@shareWithWhatsapp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referOneYearlySubscriptionAnd": "1 વાર્ષિક સબસ્ક્રિપ્શનનો સંદર્ભ લો અને 3 મહિનાનું વિસ્તરણ મેળવો.",
+  "@referOneYearlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "referThreeMonthlySubscriptionAnd": "3 માસિક સબ્સ્ક્રિપ્શનનો સંદર્ભ લો અને 1 મહિનાનું એક્સ્ટેંશન મેળવો.",
+  "@referThreeMonthlySubscriptionAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerWithReferralCodeAnd": "રેફરલ કોડ સાથે નોંધણી કરો અને વાર્ષિક સબ્સ્ક્રિપ્શન પર 2 મહિનાનો વધારા મેળવો.",
+  "@registerWithReferralCodeAnd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouHaveAnyReferralCode?": "શું તમારી પાસે રેફરલ કોડ છે?",
+  "@doYouHaveAnyReferralCode?": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterReferralCode": "રેફરલ કોડ દાખલ કરો",
+  "@enterReferralCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeBanners": "સ્ટોર બેનરો",
+  "@storeBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAndEditYourStoreBanners": "તમારા સ્ટોર બેનરો બતાવો અને સંપાદિત કરો",
+  "@showAndEditYourStoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "navigationLink": "નેવિગેશન લિંક",
+  "@navigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCantUploadMoreBanners": "તમે વધુ બેનરો અપલોડ કરી શકતા નથી",
+  "@youCantUploadMoreBanners": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editBanner": "બેનર સંપાદિત કરો",
+  "@editBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteBanner": "બેનર કાઢી નાખો",
+  "@deleteBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerRemoveMsg": "શું તમે ખરેખર આ બેનરને તમારા વેબ સ્ટોરમાંથી કાઢી માંગો છો?",
+  "@bannerRemoveMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addImage": "છબી ઉમેરો",
+  "@addImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addBanner": "બેનર ઉમેરો",
+  "@addBanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterBannerNavigationLink": "બેનર નેવિગેશન લિંક દાખલ કરો",
+  "@enterBannerNavigationLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "plzSelectTheBannerImage": "કૃપા કરીને બેનર છબી પસંદ કરો",
+  "@plzSelectTheBannerImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trial": "અજમાયશ",
+  "@trial": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "premium": "પ્રીમિયમ",
+  "@premium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotAvailable": "ઇમેઇલ ઉપલબ્ધ નથી",
+  "@emailNotAvailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkOutMyStore": "મારી દુકાન તપાસો",
+  "@checkOutMyStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bannerSizeMustBeInpx": "તમારું બેનર કદ 1920px x 500px માં હોવું જોઈએ.",
+  "@bannerSizeMustBeInpx": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createMenu": "મેનુ બનાવો",
+  "@createMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourCuisineTypes": "તમારા ભોજન પ્રકાર દાખલ કરો",
+  "@enterYourCuisineTypes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exSouthIndianEtc": "દા.ત. કાઠીયાવાડી, વગેરે.",
+  "@exSouthIndianEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourDishName": "તમારું ડિશ નામ દાખલ કરો",
+  "@enterYourDishName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exMasalaDhosaEtc": "દા.ત. મસાલા ઢોસા, વગેરે.",
+  "@exMasalaDhosaEtc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDishDescription": "ડિશ વર્ણન દાખલ કરો",
+  "@enterDishDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPrice": "ભાવ દાખલ કરો",
+  "@enterPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs200etc": "દા.ત. 220 રૂપિયા વગેરે.",
+  "@exRs200etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "discountedPrice": "ડિસ્કાઉન્ટ ભાવ",
+  "@discountedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exRs199etc": "દા.ત. 199 રૂપિયા વગેરે.",
+  "@exRs199etc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createTags": "ટેગ બનાવો",
+  "@createTags": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTagName": "ટેગ નામ દાખલ કરો",
+  "@enterTagName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addRestaurant": "રેસ્ટોરન્ટ ઉમેરો",
+  "@addRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLogo": "લોગો ઉમેરો",
+  "@addLogo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereIsYourRestaurant": "તમારી રેસ્ટોરન્ટ ક્યાં છે?",
+  "@whereIsYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYourAddress": "તમારું સરનામું દાખલ કરો",
+  "@enterYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "whichTypeOfRestaurant": "કયા પ્રકારનું રેસ્ટોરન્ટ?",
+  "@whichTypeOfRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vegetarian": "શાકાહારી",
+  "@vegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nonVegetarian": "માંસાહારી",
+  "@nonVegetarian": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "both": "બંને",
+  "@both": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "આગળ",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeAddress": "સરનામું બદલો",
+  "@changeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterRestaurantAddress": "રેસ્ટોરન્ટ સરનામું દાખલ કરો",
+  "@enterRestaurantAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityName": "સ્થાન નામ",
+  "@localityName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidAddressField": "માન્ય સરનામું ક્ષેત્ર દાખલ કરો",
+  "@enterValidAddressField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidLocalityField": "માન્ય સ્થાન ક્ષેત્ર દાખલ કરો",
+  "@enterValidLocalityField": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDishes": "બધી વાનગીઓ",
+  "@allDishes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDish": "ડિશ ઉમેરો",
+  "@addDish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "off": "OFF",
+  "@off": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "availability": "ઉપલબ્ધતા",
+  "@availability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inWhichDaysWillYourRestaurantContinue": "કયા દિવસોમાં તમારી રેસ્ટોરન્ટ ચાલુ રહેશે?",
+  "@inWhichDaysWillYourRestaurantContinue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allDays": "બધા દિવસો",
+  "@allDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDays": "દિવસો પસંદ કરો",
+  "@selectDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setTimeSlot": "સમય સ્લોટ સેટ કરો",
+  "@setTimeSlot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maximumDistanceForFoodDelivery": "ખોરાક વિતરણ માટે મહત્તમ અંતર",
+  "@maximumDistanceForFoodDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocation": "અત્યારની જ્ગ્યા",
+  "@currentLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDeliveryMode": "ડિલિવરી મોડ પસંદ કરો",
+  "@selectDeliveryMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpByYourself": "જાતે જ ચૂંટો",
+  "@pickUpByYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryByRestaurant": "રેસ્ટોરન્ટ દ્વારા ડિલિવરી",
+  "@deliveryByRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnableYourLocation": "કૃપા કરીને તમારું સ્થાન સક્ષમ કરો",
+  "@pleaseEnableYourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createYourOnlineStore": "તમારો ઓનલાઇન સ્ટોર બનાવો",
+  "@createYourOnlineStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "રેસ્ટોરન્ટ",
+  "@restaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "બધા",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "startTime": "પ્રારંભ સમય",
+  "@startTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "endTime": "અંત સમય",
+  "@endTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timeMustBeSame": "સમય સમાન હોવો જોઈએ",
+  "@timeMustBeSame": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidTime": "માન્ય સમય દાખલ કરો",
+  "@enterValidTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "open24hours": "24 કલાક ઉપલબ્ધ",
+  "@open24hours": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "setLocation": "સ્થાન સેટ કરો",
+  "@setLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourLocation": "તમારું સ્થાન",
+  "@yourLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "localityNotFound": "સ્થાન મળ્યું નથી",
+  "@localityNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "બદલો",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressNotFound": "સરનામું મળ્યું નથી",
+  "@addressNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectYourAddress": "કૃપા કરીને તમારું સરનામું પસંદ કરો",
+  "@pleaseSelectYourAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLocation": "સ્થાનની પુષ્ટિ કરો",
+  "@confirmLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "storeDeliveryCharge": "સ્ટોર ડિલિવરી ચાર્જ",
+  "@storeDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "freeDelivery": "મફત ડિલિવરી",
+  "@freeDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "addDeliveryCharge": "ડિલિવરી ચાર્જ ઉમેરો",
+  "@addDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "enterDeliveryCharge": "ડિલિવરી ચાર્જ દાખલ કરો",
+  "@enterDeliveryCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "restaurantAvailability": "રેસ્ટોરન્ટ ઉપલબ્ધતા",
+  "@restaurantAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "availabilityOfYourRestaurant": "તમારી રેસ્ટોરન્ટની ઉપલબ્ધતા",
+  "@availabilityOfYourRestaurant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unlimited": "અમર્યાદિત",
+  "@unlimited": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "freee": "ફ્રી",
+  "@freee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge": "શિપિંગ ચાર્જ",
+  "@shippingCharge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shippingCharge2": "શિપિંગ ચાર્જ",
+  "@shippingCharge2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoice": "ચલણ",
+  "@invoice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "તારીખ",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderNo": "ઓર્ડર નંબર",
+  "@orderNo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address2": "સરનામું",
+  "@address2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name2": "નામ",
+  "@name2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email2": "ઇમેઇલ",
+  "@email2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "ફોન નંબર",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "સબ ટોટલ",
+  "@subTotal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "ટોટલ રકમ",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCompleted": "પૂર્ણ થયેલ તરીકે ચિહ્નિત કરો",
+  "@markAsCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsCancelled": "રદ થયેલ તરીકે ચિહ્નિત કરો",
+  "@markAsCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "markAsPending": "પેન્ડિંગ તરીકે માર્ક કરો",
+  "@markAsPending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productName": "ઉત્પાદન નામ",
+  "@productName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "quantity2": "ક્વોન્ટિટી",
+  "@quantity2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalPrice": "કુલ કિંમત",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterValidPixelId": "માન્ય પિક્સેલ આઈડી દાખલ કરો",
+  "@enterValidPixelId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "analytics": "એનાલિટિક્સ",
+  "@analytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceboolPixelAndGoogleAnalytics": "ફેસબુક પિક્સેલ અને ગૂગલ એનાલિટિક્સ",
+  "@faceboolPixelAndGoogleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookPixel": "ફેસબુક પિક્સેલ",
+  "@facebookPixel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterKeyId": "કી આઈડી દાખલ કરો",
+  "@enterKeyId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getHelp": "સહાય મેળવો?",
+  "@getHelp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleAnalytics": "ગૂગલ એનાલિટિક્સ",
+  "@googleAnalytics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterTrackingId": "ટ્રેકિંગ આઈડી દાખલ કરો",
+  "@enterTrackingId": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "trialplan": "ટ્રાયલ",
+  "@trialplan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "monthlyPlan": "માસિક",
+  "@monthlyPlan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yearlyplan": "વાર્ષિક",
+  "@yearlyplan": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
